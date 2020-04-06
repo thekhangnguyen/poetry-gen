@@ -1,0 +1,22 @@
+header h1 {
+  background-color: rgb(32, 163, 240);
+  color: white;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bg-img {
+  background-image: url("images/ai.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 50%;
+  height: 800px;
+  width: 15%;
+}
+
+.space { margin-top: 500px; }

@@ -1,0 +1,312 @@
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Über den schwarzen Winkel
+Am Mittag die Raben mit hartem
+Ihr Schatten streift an der Hirschkuh
+Und manchmal sieht man sie mürrisch
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+O wie sie die braune Stille
+In der ein Acker sich
+Wie ein Weib, das schwere Ahnung
+Und manchmal kann man sie keifen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Um ein Aas, das sie irgendwo
+Und plötzlich richten nach Nord sie den
+Und schwinden wie ein
+In Lüften, die von Wollust
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Oft am Brunnen, wenn es dämmert
+Sieht man sie verzaubert stehen
+Wasser schöpfen, wenn es dämmert
+Eimer auf und niedergehen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In den Buchen Dohlen flattern
+Und sie gleichet einem Schatten
+Ihre gelben Haare flattern
+Und im Hofe schrein die Ratten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und umschmeichelt von Verfalle
+Senkt sie die entzundenen Lider
+Dürres Gras neigt im Verfalle
+Sich zu ihren Füßen nieder
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Stille schafft sie in der Kammer
+Und der Hof liegt längst verödet
+Im Hollunder vor der Kammer
+Kläglich eine Amsel flötet
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Silbern schaut ihr Bild im Spiegel
+Fremd sie an im Zwielichtscheine
+Und verdämmert fahl im Spiegel
+Und ihr graut vor seiner Reine
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Traumhaft singt ein Knecht im Dunkel
+Und sie starrt von Schmerz geschüttelt
+Röte träufelt durch das Dunkel
+Jäh am Tor der Südwind rüttelt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nächtens übern kahlen Anger
+Gaukelt sie in Fieberträumen
+Mürrisch greint der Wind im Anger
+Und der Mond lauscht aus den Bäumen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Balde rings die Sterne bleichen
+Und ermattet von Beschwerde
+Wächsern ihre Wangen bleichen
+Fäulnis wittert aus der Erde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Traurig rauscht das Rohr im Tümpel
+Und sie friert in sich gekauert
+Fern ein Hahn kräht. Übern Tümpel
+Hart und grau der Morgen schauert
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In der Schmiede dröhnt der Hammer
+Und sie huscht am Tor vorüber
+Glührot schwingt der Knecht den Hammer
+Und sie schaut wie tot hinüber
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie im Traum trifft sie ein Lachen
+Und sie taumelt in die Schmiede
+Scheu geduckt vor seinem Lachen
+Wie der Hammer hart und rüde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hell versprühn im Raum die Funken
+Und mit hilfloser Geberde
+Hascht sie nach den wilden Funken
+Und sie stürzt betäubt zur Erde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schmächtig hingestreckt im Bette
+Wacht sie auf voll süßem Bangen
+Und sie sieht ihr schmutzig Bette
+Ganz von goldnem Licht verhangen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Reseden dort am Fenster
+Und den bläulich hellen Himmel
+Manchmal trägt der Wind ans Fenster
+Einer Glocke zag Gebimmel
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schatten gleiten übers Kissen
+Langsam schlägt die Mittagsstunde
+Und sie atmet schwer im Kissen
+Und ihr Mund gleicht einer Wunde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Abends schweben blutige Linnen
+Wolken über stummen Wäldern
+Die gehüllt in schwarze Linnen
+Spatzen lärmen auf den Feldern
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und sie liegt ganz weiß im Dunkel
+Unterm Dach verhaucht ein Girren
+Wie ein Aas in Busch und Dunkel
+Fliegen ihren Mund umschwirren
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Traumhaft klingt im braunen Weiler
+Nach ein Klang von Tanz und Geigen
+Schwebt ihr Antlitz durch den Weiler
+Weht ihr Haar in kahlen Zweigen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Einsamer unterm Sternenzelt
+Geht durch die stille Mitternacht
+Der Knab aus Träumen wirr erwacht
+Sein Antlitz grau im Mond verfällt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Närrin weint mit offnem Haar
+Am Fenster, das vergittert starrt
+Im Teich vorbei auf süßer Fahrt
+Ziehn Liebende sehr wunderbar
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Mörder lächelt bleich im Wein
+Die Kranken Todesgrausen packt
+Die Nonne betet wund und nackt
+Vor des Heilands Kreuzespein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Mutter leis’ im Schlafe singt
+Sehr friedlich schaut zur Nacht das Kind
+Mit Augen, die ganz wahrhaft sind
+Im Hurenhaus Gelächter klingt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Beim Talglicht drunt’ im Kellerloch
+Der Tote malt mit weißer Hand
+Ein grinsend Schweigen an die Wand
+Der Schläfer flüstert immer noch
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Über den schwarzen Winkel
+Am Mittag die Raben mit hartem
+Ihr Schatten streift an der Hirschkuh
+Und manchmal sieht man sie mürrisch
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+O wie sie die braune Stille
+In der ein Acker sich
+Wie ein Weib, das schwere Ahnung
+Und manchmal kann man sie keifen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Um ein Aas, das sie irgendwo
+Und plötzlich richten nach Nord sie den
+Und schwinden wie ein
+In Lüften, die von Wollust
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Oft am Brunnen, wenn es dämmert
+Sieht man sie verzaubert stehen
+Wasser schöpfen, wenn es dämmert
+Eimer auf und niedergehen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In den Buchen Dohlen flattern
+Und sie gleichet einem Schatten
+Ihre gelben Haare flattern
+Und im Hofe schrein die Ratten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und umschmeichelt von Verfalle
+Senkt sie die entzundenen Lider
+Dürres Gras neigt im Verfalle
+Sich zu ihren Füßen nieder
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Stille schafft sie in der Kammer
+Und der Hof liegt längst verödet
+Im Hollunder vor der Kammer
+Kläglich eine Amsel flötet
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Silbern schaut ihr Bild im Spiegel
+Fremd sie an im Zwielichtscheine
+Und verdämmert fahl im Spiegel
+Und ihr graut vor seiner Reine
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Traumhaft singt ein Knecht im Dunkel
+Und sie starrt von Schmerz geschüttelt
+Röte träufelt durch das Dunkel
+Jäh am Tor der Südwind rüttelt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nächtens übern kahlen Anger
+Gaukelt sie in Fieberträumen
+Mürrisch greint der Wind im Anger
+Und der Mond lauscht aus den Bäumen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Balde rings die Sterne bleichen
+Und ermattet von Beschwerde
+Wächsern ihre Wangen bleichen
+Fäulnis wittert aus der Erde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Traurig rauscht das Rohr im Tümpel
+Und sie friert in sich gekauert
+Fern ein Hahn kräht. Übern Tümpel
+Hart und grau der Morgen schauert
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In der Schmiede dröhnt der Hammer
+Und sie huscht am Tor vorüber
+Glührot schwingt der Knecht den Hammer
+Und sie schaut wie tot hinüber
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie im Traum trifft sie ein Lachen
+Und sie taumelt in die Schmiede
+Scheu geduckt vor seinem Lachen
+Wie der Hammer hart und rüde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hell versprühn im Raum die Funken
+Und mit hilfloser Geberde
+Hascht sie nach den wilden Funken
+Und sie stürzt betäubt zur Erde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schmächtig hingestreckt im Bette
+Wacht sie auf voll süßem Bangen
+Und sie sieht ihr schmutzig Bette
+Ganz von goldnem Licht verhangen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Reseden dort am Fenster
+Und den bläulich hellen Himmel
+Manchmal trägt der Wind ans Fenster
+Einer Glocke zag Gebimmel
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schatten gleiten übers Kissen
+Langsam schlägt die Mittagsstunde
+Und sie atmet schwer im Kissen
+Und ihr Mund gleicht einer Wunde
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Abends schweben blutige Linnen
+Wolken über stummen Wäldern
+Die gehüllt in schwarze Linnen
+Spatzen lärmen auf den Feldern
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und sie liegt ganz weiß im Dunkel
+Unterm Dach verhaucht ein Girren
+Wie ein Aas in Busch und Dunkel
+Fliegen ihren Mund umschwirren
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Traumhaft klingt im braunen Weiler
+Nach ein Klang von Tanz und Geigen
+Schwebt ihr Antlitz durch den Weiler
+Weht ihr Haar in kahlen Zweigen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Einsamer unterm Sternenzelt
+Geht durch die stille Mitternacht
+Der Knab aus Träumen wirr erwacht
+Sein Antlitz grau im Mond verfällt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Närrin weint mit offnem Haar
+Am Fenster, das vergittert starrt
+Im Teich vorbei auf süßer Fahrt
+Ziehn Liebende sehr wunderbar
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Mörder lächelt bleich im Wein
+Die Kranken Todesgrausen packt
+Die Nonne betet wund und nackt
+Vor des Heilands Kreuzespein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Mutter leis’ im Schlafe singt
+Sehr friedlich schaut zur Nacht das Kind
+Mit Augen, die ganz wahrhaft sind
+Im Hurenhaus Gelächter klingt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Beim Talglicht drunt’ im Kellerloch
+Der Tote malt mit weißer Hand
+Ein grinsend Schweigen an die Wand
+Der Schläfer flüstert immer noch
+<|endoftext|>

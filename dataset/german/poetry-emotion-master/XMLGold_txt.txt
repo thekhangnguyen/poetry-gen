@@ -1,0 +1,2922 @@
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach Liebste, laß uns eilen
+Wir haben Zeit
+Es schadet uns verweilen
+Uns beyderseit
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der edlen Schönheit Gaben
+Fliehen Fuß für Fuß
+Daß alles, was wir haben
+Verschwinden muß
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Wangen Ziehr verbleichet
+Das Haar wird greiß
+Der Augen Feuer weichet
+Die Brunst wird Eiß
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Das Mündlein von Corallen
+Wird ungestalt
+Die Händ'als Schnee verfallen
+Und du wirst alt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Drumb laß uns jetzt geniessen
+Der Jugend Frucht
+Eh'als wir folgen müssen
+Der Jahre Flucht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo du dich selber liebest
+So liebe mich
+Gieb mir das, wann du giebest
+Verlier auch ich
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich empfinde fast ein Grauen
+dass ich, Plato, für und für
+bin gesessen über dir
+Es ist Zeit hinauszuschauen
+und sich bei den frischen Quellen
+in dem Grünen zu ergehn
+wo die schönen Blumen stehn
+und die Fischer Netze stellen!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wozu dienet das Studieren
+als zu lauter Ungemach!
+Unterdessen läuft die Bach
+unsers Lebens, das wir führen
+ehe wir es inne werden
+auf ihr letztes Ende hin
+dann kömmt ohne Geist und Sinn
+dieses alles in die Erden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Holla, Junger, geh und frage
+wo der beste Trunk mag sein
+nimm den Krug und fülle Wein!
+Alles Trauren, Leid und Klage
+wie wir Menschen täglich haben
+eh uns Clotho fortgerafft
+will ich in den süssen Saft
+den die Traube gibt, vergraben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Kaufe gleichfalls auch Melonen
+und vergiss des Zuckers nicht
+schaue nur, dass nichts gebricht!
+Jener mag der Heller schonen
+der bei seinem Gold und Schätzen
+tolle sich zu kränken pflegt
+und nicht satt zu Bette legt
+ich will, weil ich kann, mich letzen!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Bitte meine guten Brüder
+auf die Musik und ein Glas!
+Kein Ding schickt sich, dünkt mich, bass
+als gut Trank und gute Lieder
+Lass ich gleich nicht viel zu erben
+ei, so hab ich edlen Wein!
+Will mit andern lustig sein
+muss ich gleich alleine sterben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir sind doch nunmehr ganz, ja mehr denn ganz verheeret!
+Der frechen Völker Schar, die rasende Posaun
+Das vom Blut fette Schwert, die donnernde Karthaun
+Hat aller Schweiß, und Fleiß, und Vorrat aufgezehret
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Türme stehn in Glut, die Kirch'ist umgekehret
+Das Rathaus liegt im Grauß, die Starken sind zerhaun
+Die Jungfern sind geschänd't, und wo wir hin nur schaun
+Ist Feuer, Pest, und Tod, der Herz und Geist durchfähret
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In dieser Einsamkeit, der mehr denn öden Wüsten
+Gestreckt auf wildes Kraut, an die bemooste See
+Beschau ich jenes Tal und dieser Felsen Höh
+Auf welchem Eulen nur und stille Vögel nisten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hier, fern von dem Palast; weit von des Pöbels Lüsten
+Betracht'ich: wie der Mensch in Eitelkeit vergeh
+Wie, auf nicht festem Grund all unser Hoffen steh
+Wie die vor Abend schmähn, die vor dem Tag uns grüßten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie sehr der Wirbelstrom so vieler Angst und plagen
+mich drähet um und um / so bistu doch mein Hort
+mein mittel punct / in dem mein Zirkel fort und fort
+mein Geist halb hafften bleibt vom sturm unausgeschlagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Mein Zünglein stehet stät / von Wellen fort getragen
+auf meinen Stern gericht. Mein Herz und Aug′ ist dort
+es wartet schon auf mich am Ruhe-vollen Port
+dieweil muß ich mich keck in weh und See hinwagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Du siehst, wohin du siehst nur Eitelkeit auf Erden
+Was dieser heute baut, reißt jener morgen ein
+Wo itzund Städte stehn, wird eine Wiese sein
+Auf der ein Schäferskind wird spielen mit den Herden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Was itzund prächtig blüht, soll bald zertreten werden
+Was itzt so pocht und trotzt ist Morgen Asch und Bein
+Nichts ist, das ewig sei, kein Erz, kein Marmorstein
+Itzt lacht das Glück uns an, bald donnern die Beschwerden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie im Morgenglanze
+du rings mich anglühst
+Frühling, Geliebter!
+Mit tausendfacher Liebeswonne
+sich an mein Herz drängt
+deiner ewigen Wärme
+heilig Gefühl
+unendliche Schöne!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Daß ich dich fassen möcht
+in diesen Arm!
+Ich komm'! Ich komme!
+Wohin? Ach, wohin?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hinauf! Hinauf strebt's
+Es schweben die Wolken
+abwärts, die Wolken
+neigen sich der sehnenden Liebe
+Mir! Mir!
+In euerm Schoße
+aufwärts!
+Umfangend umfangen!
+Aufwärts an deinen Busen
+alliebender Vater!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach, an deinem Busen
+lieg'ich, schmachte
+und deine Blumen, dein Gras
+drängen sich an mein Herz
+Du kühlst den brennenden
+Durst meines Busens
+lieblicher Morgenwind
+ruft drein die Nachtigall
+liebend nach mir aus dem Nebeltal
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach, daß die inn're Schöpfungskraft
+Durch meinen Sinn erschölle!
+Daß eine Bildung voller Saft
+Aus meinen Fingern quölle!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich zittre nur, ich stottre nur
+Und kann es doch nicht lassen
+Ich fühl', ich kenne dich, Natur
+Und so muß ich dich fassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Bedenk'ich dann, wie manches Jahr
+Sich schon mein Sinn erschließet
+Wie er, wo dürre Heide war
+Nun Freudenquell genießet
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie sehn'ich mich, Natur, nach dir
+Dich treu und lieb zu fühlen!
+Ein lust'ger Springbrunn, wirst du mir
+Aus tausend Röhren spielen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wirst alle meine Kräfte mir
+In meinem Sinn erheitern
+Und dieses enge Dasein hier
+Zur Ewigkeit erweitern
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich kenne nichts Ärmeres
+Unter der Sonn'als euch Götter!
+Ihr nähret kümmerlich
+Von Opfersteuern
+Und Gebetshauch
+Eure Majestät
+Und darbtet, wären
+Nicht Kinder und Bettler
+Hoffnungsvolle Toren
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da ich ein Kind war
+Nicht wußte, wo aus, wo ein
+Kehrt'ich mein verirrtes Auge
+Zur Sonne, als wenn drüber wär
+Ein Ohr zu hören meine Klage
+Ein Herz wie meins
+Sich des Bedrängten zu erbarmen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer half mir
+Wider der Titanen Übermut?
+Wer rettete vom Tode mich
+Von Sklaverei?
+Hast du's nicht alles selbst vollendet
+Heilig glühend Herz?
+Und glühtest, jung und gut
+Betrogen, Rettungsdank
+Dem Schlafenden dadroben?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich dich ehren? Wofür?
+Hast du die Schmerzen gelindert
+Je des Beladenen?
+Hast du die Tränen gestillet
+Je des Geängsteten?
+Hat nicht mich zum Manne geschmiedet
+Die allmächtige Zeit
+Und das ewige Schicksal
+Meine Herren und deine?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wähntest du etwa
+Ich sollte das Leben hassen
+In Wüsten fliehn
+Weil nicht alle Knabenmorgen
+Blütenträume reiften?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hier sitz'ich, forme Menschen
+Nach meinem Bilde
+Ein Geschlecht, das mir gleich sei
+Zu leiden, weinen
+Genießen und zu freuen sich
+Und dein nicht zu achten
+Wie ich!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Mond ist aufgegangen
+Die goldnen Sternlein prangen
+Am Himmel hell und klar
+Der Wald steht schwarz und schweiget
+Und aus den Wiesen steiget
+Der weiße Nebel wunderbar
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie ist die Welt so stille
+Und in der Dämmrung Hülle
+So traulich und so hold!
+Als eine stille Kammer
+Wo ihr des Tages Jammer
+Verschlafen und vergessen sollt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Seht ihr den Mond dort stehen?
+Er ist nur halb zu sehen
+Und ist doch rund und schön!
+So sind wohl manche Sachen
+Die wir getrost belachen
+Weil unsre Augen sie nicht sehn
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir stolze Menschenkinder
+Sind eitel arme Sünder
+Und wissen gar nicht viel
+Wir spinnen Luftgespinste
+Und suchen viele Künste
+Und kommen weiter von dem Ziel
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Gott, laß uns dein Heil schauen
+Auf nichts Vergänglichs trauen
+Nicht Eitelkeit uns freun!
+Laß uns einfältig werden
+Und vor dir hier auf Erden
+Wie Kinder fromm und fröhlich sein!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wollst endlich sonder Grämen
+Aus dieser Welt uns nehmen
+Durch einen sanften Tod!
+Und, wenn du uns genommen
+Laß uns in Himmel kommen
+Du unser Herr und unser Gott!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+So legt euch denn, ihr Brüder
+In Gottes Namen nieder
+Kalt ist der Abendhauch
+Verschon uns, Gott! mit Strafen
+Und laß uns ruhig schlafen!
+Und unsern kranken Nachbar auch!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Winter ist ein rechter Mann
+kernfest und auf die Dauer
+sein Fleisch fühlt sich wie Eisen an
+Er scheut nicht süß noch sauer
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Er zieht sein Hemd im Freien an
+Und läßt‘s vorher nicht wärmen
+Und spottet über Fluß im
+Und Kolik in Gedärmen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus Blumen und aus Vogelsang
+Weiß er sich nichts zu machen
+Haßt warmen Drang und warmen Klang
+Und alle warmen Sachen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Doch wenn die Füchse bellen sehr
+Wenn‘s Holz im Ofen knittert
+Und an dem Ofen Knecht und Herr
+Die Hände reibt und zittert
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wenn Stein und Bein vor Frost zerbricht
+und Teich und Seen krachen
+das klingt ihm gut, das haßt er nicht
+dann will er sich totlachen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sein Schloß von Eis liegt ganz hinaus
+beim Nordpol an dem Strande
+doch hat er auch ein Sommerhaus
+im lieben Schweizerlande
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da ist er denn bald dort bald hier
+gut Regiment zu führen
+und wenn er durchzieht stehn wir
+und sehn ihn an und frieren
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Edel sei der Mensch
+Hilfreich und gut!
+Denn das allein
+Unterscheidet ihn
+Von allen Wesen
+Die wir kennen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Heil den unbekannten
+Höhern Wesen
+Die wir ahnen!
+Ihnen gleiche der Mensch!
+Sein Beispiel lehr uns
+Jene glauben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Denn unfühlend
+Ist die Natur
+Es leuchtet die Sonne
+Über Bös und Gute
+Und dem Verbrecher
+Glänzen wie dem Besten
+der Mond und die Sterne
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wind und Ströme
+Donner und Hagel
+Rauschen ihren Weg
+Und ergreifen
+Vorüber eilend
+Einen um den andern
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auchso das Glück
+Tappt unter die Menge
+Faßt bald des Knaben
+Lockige Unschuld
+Bald auch den kahlen
+Schuldigen Scheitel
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nach ewigen, ehrnen
+Großen Gesetzen
+Müssen wir alle
+Unseres Daseins
+Kreise vollenden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nur allein der Mensch
+Vermag das Unmögliche
+Er unterscheidet
+Wählet und richtet
+Er kann dem Augenblick
+Dauer verleihen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Er allein darf
+Den Guten lohnen
+Den Bösen strafen
+Heilen und retten
+Alles Irrende, Schweifende
+Nützlich verbinden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und wir verehren
+Die Unsterblichen
+Als wären sie Menschen
+Täten im großen
+Was der Beste im kleinen
+tut oder möchte
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der edle Mensch
+Sei hilfreich und gut!
+Unermüdet schaff er
+Das Nützliche, Rechte
+Sei uns ein Vorbild
+Jener geahneten Wesen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nur Einen Sommer gönnt, ihr Gewaltigen!
+Und einen Herbst zu reifem Gesange mir
+Daß williger mein Herz, vom süßen
+Spiele gesättiget, dann mir sterbe
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Seele, der im Leben ihr göttlich Recht
+Nicht ward, sie ruht auch drunten im Orkus nicht
+Doch ist mir einst das Heil'ge, das am
+Herzen mir liegt, das Gedicht gelungen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Willkommen dann, o Stille der Schattenwelt!
+Zufrieden bin ich, wenn auch mein Saitenspiel
+Mich nicht hinab geleitet; Einmal
+Lebt ich, wie Götter, und mehr bedarfs nicht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Zu Dionys, dem Tyrannen, schlich
+Damon, den Dolch im Gewande
+Ihn schlugen die Häscher in Bande
+"Was wolltest du mit dem Dolche? sprich!
+Entgegnet ihm finster der Wüterich
+"Die Stadt vom Tyrannen befreien!
+"Das sollst du am Kreuze bereuen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Ich bin", spricht jener, "zu sterben bereit
+Und bitte nicht um mein Leben
+Doch willst du Gnade mir geben
+Ich flehe dich um drei Tage Zeit
+Bis ich die Schwester dem Gatten gefreit
+Ich lasse den Freund dir als Bürgen
+Ihn magst du, entrinn'ich, erwürgen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da lächelt der König mit arger List
+Und spricht nach kurzem Bedenken
+"Drei Tage will ich dir schenken
+Doch wisse, wenn sie verstrichen, die Frist
+Eh'du zurück mir gegeben bist
+So muß er statt deiner erblassen
+Doch dir ist die Strafe erlassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und er kommt zum Freunde: "Der König gebeut
+Daß ich am Kreuz mit dem Leben
+Bezahle das frevelnde Streben
+Doch will er mir gönnen drei Tage Zeit
+Bis ich die Schwester dem Gatten gefreit
+So bleib du dem König zum Pfande
+Bis ich komme zu lösen die Bande
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und schweigend umarmt ihn der treue Freund
+Und liefert sich aus dem Tyrannen
+Der andere ziehet von dannen
+Und ehe das dritte Morgenrot scheint
+Hat er schnell mit dem Gatten die Schwester vereint
+Eilt heim mit sorgender Seele
+Damit er die Frist nicht verfehle
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da gießt unendlicher Regen herab
+Von den Bergen stürzen die Quellen
+Und die Bäche, die Ströme schwellen
+Und er kommt ans Ufer mit wanderndem Stab
+Da reißet die Brücke der Strudel herab
+Und donnernd sprengen die Wogen
+Des Gewölbes krachenden Bogen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und trostlos irrt er an Ufers Rand
+Wie weit er auch spähet und blicket
+Und die Stimme, die rufende, schicket
+Da stößet kein Nachen vom sichern Strand
+Der ihn setze an das gewünschte Land
+Kein Schiffer lenket die Fähre
+Und der wilde Strom wird zum Meere
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da sinkt er ans Ufer und weint und fleht
+Die Hände zum Zeus erhoben
+"O hemme des Stromes Toben!
+Es eilen die Stunden, im Mittag steht
+Die Sonne, und wenn sie niedergeht
+Und ich kann die Stadt nicht erreichen
+So muß der Freund mir erbleichen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Doch wachsend erneut sich des Stromes Wut
+Und Welle auf Welle zerrinnet
+Und Stunde an Stunde ertrinnet
+Da treibt ihn die Angst, da faßt er sich Mut
+Und wirft sich hinein in die brausende Flut
+Und teilt mit gewaltigen Armen
+Den Strom, und ein Gott hat Erbarmen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und gewinnt das Ufer und eilet fort
+Und danket dem rettenden Gotte
+Da stürzet die raubende Rotte
+Hervor aus des Waldes nächtlichem Ort
+Den Pfad ihm sperrend, und schnaubert Mord
+Und hemmet des Wanderers Eile
+Mit drohend geschwungener Keule
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Was wollt ihr?" ruft er vor Schrecken bleich
+"Ich habe nichts als mein Leben
+Das muß ich dem Könige geben!
+Und entreißt die Keule dem nächsten gleich
+"Um des Freundes willen erbarmet euch!
+Und drei mit gewaltigen Streichen
+Erlegt er, die andern entweichen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Sonne versendet glühenden Brand
+Und von der unendlichen Mühe
+Ermattet sinken die Kniee
+"O hast du mich gnädig aus Räubershand
+Aus dem Strom mich gerettet ans heilige Land
+Und soll hier verschmachtend verderben
+Und der Freund mir, der liebende, sterben!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und horch! da sprudelt es silberhell
+Ganz nahe, wie rieselndes Rauschen
+Und stille hält er, zu lauschen
+Und sieh, aus dem Felsen, geschwätzig, schnell
+Springt murmelnd hervor ein lebendiger Quell
+Und freudig bückt er sich nieder
+Und erfrischet die brennenden Glieder
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Sonne blickt durch der Zweige Grün
+Und malt auf den glänzenden Matten
+Der Bäume gigantische Schatten
+Und zwei Wanderer sieht er die Straße ziehn
+Will eilenden Laufes vorüber fliehn
+Da hört er die Worte sie sagen
+"Jetzt wird er ans Kreuz geschlagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Angst beflügelt den eilenden Fuß
+Ihn jagen der Sorge Qualen
+Da schimmern in Abendrots Strahlen
+Von ferne die Zinnen von Syrakus
+Und entgegen kommt ihm Philostratus
+Des Hauses redlicher Hüter
+Der erkennet entsetzt den Gebieter
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Zurück! du rettest den Freund nicht mehr
+So rette das eigene Leben!
+Den Tod erleidet er eben
+Von Stunde zu Stunde gewartet'er
+Mit hoffender Seele der Wiederkehr
+Ihm konnte den mutigen Glauben
+Der Hohn des Tyrannen nicht rauben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Und ist es zu spät, und kann ich ihm nicht
+Ein Retter, willkommen erscheinen
+So soll mich der Tod ihm vereinen
+Des rühme der blut'ge Tyrann sich nicht
+Daß der Freund dem Freunde gebrochen die Pflicht
+Er schlachte der Opfer zweie
+Und glaube an Liebe und Treue!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Sonne geht unter, da steht er am Tor
+Und sieht das Kreuz schon erhöhet
+Das die Menge gaffend umstehet
+An dem Seile schon zieht man den Freund empor
+Da zertrennt er gewaltig den dichter Chor
+"Mich, Henker", ruft er, "erwürget!
+Da bin ich, für den er gebürget!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und Erstaunen ergreifet das Volk umher
+In den Armen liegen sich beide
+Und weinen vor Schmerzen und Freude
+Da sieht man kein Augen tränenleer
+Und zum Könige bringt man die Wundermär
+Der fühlt ein menschliches Rühren
+Läßt schnell vor den Thron sie führen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und blicket sie lange verwundert an
+Drauf spricht er: "Es ist euch gelungen
+Ihr habt das Herz mir bezwungen
+Und die Treue, sie ist doch kein leerer Wahn
+So nehmet auch mich zum Genossen an
+Ich sei, gewährt mir die Bitte
+In eurem Bunde der dritte!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ein Strom entrauscht umwölktem Felsensaale
+Dem Ozean sich eilig zu verbinden
+Was auch sich spiegeln mag von Grund zu Gründen
+Er wandelt unaufhaltsam fort zu Tale
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dämonisch aber stürzt mit einem Male
+Ihr folgen Berg und Wald in Wirbelwinden
+Sich Oreas, Behagen dort zu finden
+Und hemmt den Lauf, begrenzt die weite Schale
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+O Täler weit, o Höhen
+O schöner, grüner Wald
+Du meiner Lust und Wehen
+Andächt'ger Aufenthalt!
+Da draußen, stets betrogen
+Saust die geschäft'ge Welt
+Schlag noch einmal die Bogen
+Um mich, du grünes Zelt!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wenn es beginnt zu tagen
+Die Erde dampft und blinkt
+Die Vögel lustig schlagen
+Daß dir dein Herz erklingt
+Da mag vergehn, verwehen
+Das trübe Erdenleid
+Da sollst du auferstehen
+In junger Herrlichkeit!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da steht im Wald geschrieben
+Ein stilles, ernstes Wort
+Von rechtem Tun und Lieben
+Und was des Menschen Hort
+Ich habe treu gelesen
+Die Worte, schlicht und wahr
+Und durch mein ganzes Wesen
+Wards unaussprechlich klar
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Bald werd ich dich verlassen
+Fremd in der Fremde gehn
+Auf buntbewegten Gassen
+Des Lebens Schauspiel sehn
+Und mitten in dem Leben
+Wird deines Ernsts Gewalt
+Mich Einsamen erheben
+So wird mein Herz nicht alt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich ging im Walde
+So vor mich hin
+Und nichts zu suchen
+Das war mein Sinn
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Im Schatten sah ich
+Ein Blümlein stehn
+Wie Sterne blinkend
+Wie Äuglein schön
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich wollt es brechen
+Da sagt'es fein
+Soll ich zum Welken
+Gebrochen sein?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Mit allen Wurzeln
+Hob ich es aus
+Und trugs zum Garten
+Am hübschen Haus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich pflanzt es wieder
+Am kühlen Ort
+Nun zweigt und blüht es
+Mir immer fort
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es zogen zwei rüstge Gesellen
+Zum erstenmal von Haus
+So jubelnd recht in die hellen
+Klingenden, singenden Wellen
+Des vollen Frühlings hinaus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die strebten nach hohen Dingen
+Die wollten, trotz Lust und Schmerz
+Was Rechts in der Welt vollbringen
+Und wem sie vorübergingen
+Dem lachten Sinn und Herz
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der erste, der fand ein Liebchen
+Die Schwieger kauft´ Hof und Haus
+Der wiegte gar bald ein Bübchen
+Und sah aus heimlichem Stübchen
+Behaglich ins Feld hinaus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dem zweiten sangen und logen
+Die tausend Stimmen im Grund
+Verlockend´ Sirenen, und zogen
+Ihn in der buhlenden Wogen
+Farbig klingenden Schlund
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und wie er auftaucht vom Schlunde
+Da war er müde und alt
+Sein Schifflein das lag im Grunde
+So still wars rings in der Runde
+Und über die Wasser wehts kalt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es singen und klingen die Wellen
+Des Frühlings wohl über mir
+Und seh ich so kecke Gesellen
+Die Tränen im Auge mir schwellen
+Ach Gott, führ mich liebreich zu Dir!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus alten Märchen winkt es
+Hervor mit weißer Hand
+Da singt es und da klingt es
+Von einem Zauberland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo große Blumen schmachten
+Im goldnen Abendlicht
+Und zärtlich sich betrachten
+Mit bräutlichem Gesicht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo alle Bäume sprechen
+Und singen, wie ein Chor
+Und laute Quellen brechen
+Wie Tanzmusik hervor
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und Liebesweisen tönen
+Wie du sie nie gehört
+Bis wundersüßes Sehnen
+Dich wundersüß betört!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach, könnt ich dorthin kommen
+Und dort mein Herz erfreun
+Und aller Qual entnommen
+Und frei und selig sein!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach! jenes Land der Wonne
+Das seh ich oft im Traum
+Doch kommt die Morgensonne
+Zerfließts wie eitel Schaum
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wem Gott will rechte Gunst erweisen
+Den schickt er in die weite Welt
+Dem will er seine Wunder weisen
+In Berg und Wald und Strom und Feld
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Trägen, die zu Hause liegen
+Erquicket nicht das Morgenrot
+Sie wissen nur von Kinderwiegen
+Von Sorgen, Last und Not um Brot
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Bächlein von den Bergen springen
+Die Lerchen schwirren hoch vor Lust
+Was sollt ich nicht mit ihnen singen
+Aus voller Kehl und frischer Brust?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Den lieben Gott lass ich nur walten
+Der Bächlein, Lerchen, Wald und Feld
+Und Erd und Himmel will erhalten
+Hat auch mein Sach aufs best bestellt!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich muß hinaus, ich muß zu dir
+Ich muß es selbst dir sagen
+Du bist mein Frühling, du nur mir
+In diesen lichten Tagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich will die Rosen nicht mehr sehn
+Nicht mehr die grünen Matten
+Ich will nicht mehr zu Walde gehn
+Nach Duft und Klang und Schatten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich will nicht mehr der Lüfte Zug
+Nicht mehr der Wellen Rauschen
+Ich will nicht mehr der Vögel Flug
+Und ihrem Liede lauschen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich will hinaus, ich will zu dir
+Ich will es selbst dir sagen
+Du bist mein Frühling, du nur mir
+In diesen lichten Tagen!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hörst du nicht die Bäume rauschen
+Draußen durch die stille Rund?
+Lockts dich nicht, hinabzulauschen
+Von dem Söller in den Grund
+Wo die vielen Bäche gehen
+Wunderbar im Mondenschein
+Und die stillen Schlösser sehen
+In den Fluß vom hohen Stein?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Kennst du noch die irren Lieder
+Aus der alten, schönen Zeit?
+Sie erwachen alle wieder
+Nachts in Waldeseinsamkeit
+Wenn die Bäume träumend lauschen
+Und der Flieder duftet schwül
+Und im Fluß die Nixen rauschen
+Komm herab, hier ists so kühl
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es schienen so golden die Sterne
+Am Fenster ich einsam stand
+Und hörte aus weiter Ferne
+Ein Posthorn im stillen Land
+Das Herz mir im Leib entbrennte
+Da hab ich mir heimlich gedacht
+Ach, wer da mitreisen könnte
+In der prächtigen Sommernacht!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Zwei junge Gesellen gingen
+Vorüber am Bergeshang
+Ich hörte im Wandern sie singen
+Die stille Gegend entlang
+Von schwindelnden Felsenschlüften
+Wo die Wälder rauschen so sacht
+Von Quellen, die von den Klüften
+Sich stürzen in die Waldesnacht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sie sangen von Marmorbildern
+Von Gärten, die überm Gestein
+In dämmernden Lauben verwildern
+Palästen im Mondenschein
+Wo die Mädchen am Fenster lauschen
+Wann der Lauten Klang erwacht
+Und die Brunnen verschlafen rauschen
+In der prächtigen Sommernacht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Laue Luft kommt blau geflossen
+Frühling, Frühling soll es sein!
+Waldwärts Hörnerklang geschossen
+Mutger Augen lichter Schein
+Und das Wirren bunt und bunter
+Wird ein magisch wilder Fluß
+In die schöne Welt hinunter
+Lockt dich dieses Stromes Gruß
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und ich mag mich nicht bewahren!
+Weit von euch treibt mich der Wind
+Auf dem Strome will ich fahren
+Von dem Glanze selig blind!
+Tausend Stimmen lockend schlagen
+Hoch Aurora flammend weht
+Fahre zu! Ich mag nicht fragen
+Wo die Fahrt zu Ende geht!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Deutschland- auf weichem Pfühle
+Mach'dir den Kopf nicht schwer!
+Im irdischen Gewühle
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Laß jede Freiheit dir rauben
+Setze dich nicht zur Wehr
+Du behältst ja den christlichen Glauben
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und ob man dir alles verböte
+Doch gräme dich nicht zu sehr
+Du hast ja Schiller und Goethe
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dein König beschützt die Kamele
+Und macht sie pensionär
+Dreihundert Taler die Seele
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es fechten dreihundert Blätter
+Im Schatten, ein Sparterheer
+Und täglich erfährst du das Wetter
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Kein Kind läuft ohne Höschen
+Am Rhein, dem freien, umher
+Mein Deutschland, mein Dornröschen
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Verehrter Herr und König
+Weißt du die schlimme Geschicht?
+Am Montag aßen wir wenig
+Und am Dienstag aßen wir nicht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und am Mittwoch mußten wir darben
+Und am Donnerstag litten wir Not
+Und ach, am Freitag starben
+Wir fast den Hungertod!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Drum laß am Samstag backen
+Das Brot, fein säuberlich
+Sonst werden wir sonntags packen
+Und fressen, o König, dich!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir Bürgermeister und Senat
+Wir haben folgendes Mandat
+Stadtväterlichst an alle Klassen
+Der treuen Bürgerschaft erlassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ausländer, Fremde, sind es meist
+Die unter uns gesät den Geist
+Der Rebellion. Dergleichen Sünder
+Gottlob! sind selten Landeskinder
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auch Gottesleugner sind es meist
+Wer sich von seinem Gotte reißt
+Wird endlich auch abtrünnig werden
+Von seinen irdischen Behörden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Obrigkeit gehorchen, ist
+Die erste Pflicht für Jud und Christ
+Es schließe jeder seine Bude
+Sobald es dunkelt, Christ und Jude
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo ihrer drei beisammen stehn
+Da soll man auseinander gehn
+Des Nachts soll niemand auf den Gassen
+Sich ohne Leuchte sehen lassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es liefre seine Waffen aus
+Ein jeder in dem Gildenhaus
+Auch Munition von jeder Sorte
+Wird deponiert am selben Orte
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer auf der Straße räsoniert
+Wird unverzüglich füsiliert
+Das Räsonieren durch Gebärden
+Soll gleichfalls hart bestrafet werden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Vertrauet Eurem Magistrat
+Der fromm und liebend schützt den Staat
+Durch huldreich hochwohlweises Walten
+Euch ziemt es, stets das Maul zu halten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Straßenlärm betäubend zu mir drang
+In großer Trauer, schlank, von Schmerz gestrafft
+Schritt eine Frau vorbei, die mit der Hand gerafft
+Den Saum des Kleides hob, der glockig schwang
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Anmutig, wie gemeißelt war das Bein
+Und ich, erstarrt, wie außer mich gebracht
+Vom Himmel ihrer Augen, wo ein Sturm erwacht
+Sog Süße, die betört, und Lust, die tötet, ein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Empor mein Volk! Das Schwert zur Hand!
+Und brich hervor in Haufen!
+Vom heil’gen Zorn ums Vaterland
+Mit Feuer laß dich taufen!
+Der Erbfeind beut dir Schmach und Spott
+Das Maß ist voll, zur Schlacht mit Gott!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dein Haus in Frieden auszubau’n
+Stand all dein Sinn und Wollen
+Da bricht den Hader er vom Zaun
+Von Gift und Neid geschwollen
+Komm über ihn und seine Brut
+Das frevelhaft vergossne Blut!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir träumen nicht von raschem Sieg
+Von leichten Ruhmeszügen
+Ein Weltgericht ist dieser Krieg
+Und stark der Geist der Lügen
+Doch der einst unsrer Väter Burg
+Getrost, er führt auch uns hindurch!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schon läßt er klar bei Tag und Nacht
+Uns seine Zeichen schauen
+Die Flammen hat er angefacht
+In allen deutschen Gauen
+Von Stamm zu Stamme lodert's fort
+Kein Mainstrom mehr, kein Süd und Nord!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Voran denn, kühner Preußenaar
+Voran durch Schlacht und Grausen!
+Wie Sturmwind schwellt dein Flügelpaar
+Vom Himmel her ein Brausen
+Das ist des alten Blüchers Geist
+Der dir die rechte Straße weist
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Flieg, Adler, flieg! Wir stürmen nach
+Ein einig Volk in Waffen
+Wir stürmen nach, ob tausendfach
+Des Todes Pforten klaffen
+Und fallen wir: flieg Adler, flieg!
+Aus unsrem Blute wächst der Sieg
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sie trug den Becher in der Hand
+Ihr Kinn und Mund glich seinem Rand
+So leicht und sicher war ihr Gang
+Kein Tropfen aus dem Becher sprang
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+So leicht und fest war seine Hand
+Er ritt auf einem jungen Pferde
+Und mit nachlässiger Gebärde
+Erzwang er, daß es zitternd stand
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Jedoch, wenn er aus ihrer Hand
+Den leichten Becher nehmen sollte
+So war es beiden allzu schwer
+Denn beide bebten sie so sehr
+Daß keine Hand die andre fand
+Und dunkler Wein am Boden rollte
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sein Blick ist vom Vorübergehn der Stäbe
+so müd geworden, dass er nichts mehr hält
+Ihm ist, als ob es tausend Stäbe gäbe
+und hinter tausend Stäben keine Welt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der weiche Gang geschmeidig starker Schritte
+der sich im allerkleinsten Kreise dreht
+ist wie ein Tanz von Kraft um eine Mitte
+in der betäubt ein großer Wille steht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nur manchmal schiebt der Vorhang der Pupille
+sich lautlos auf-. Dann geht ein Bild hinein
+geht durch der Glieder angespannte Stille
+und hört im Herzen auf zu sein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Befiehl den letzten Früchten, voll zu sein
+gib ihnen noch zwei südlichere Tage
+dränge sie zur Vollendung hin, und jage
+die letzte Süße in den schweren Wein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer jetzt kein Haus hat, baut sich keines mehr
+Wer jetzt allein ist, wird es lange bleiben
+wird wachen, lesen, lange Briefe schreiben
+und wird in den Alleen hin und her
+unruhig wandern, wenn die Blätter treiben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Am Abend, wenn die Glocken Frieden läuten
+Folg ich der Vögel wundervollen Flügen
+Die lang geschart, gleich frommen Pilgerzügen
+Entschwinden in den herbstlich klaren Weiten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hinwandelnd durch den dämmervollen Garten
+Träum ich nach ihren helleren Geschicken
+Und fühl der Stunden Weiser kaum mehr rücken
+So folg ich über Wolken ihren Fahrten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schornsteine stehn in großem Zwischenraum
+Im Wintertag, und tragen seine Last
+Des schwarzen Himmels dunkelnden Palast
+Wie goldne Stufe brennt sein niedrer Saum
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fern zwischen kahlen Bäumen, manchem Haus
+Zäunen und Schuppen, wo die Weltstadt ebbt
+Und auf vereisten Schienen mühsam schleppt
+Ein langer Güterzug sich schwer hinaus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auf einem Häuserblocke sitzt er breit
+Die Winde lagern schwarz um seine Stirn
+Er schaut voll Wut, wo fern in Einsamkeit
+Die letzten Häuser in das Land verirrn
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Vom Abend glänzt der rote Bauch dem Baal
+Die großen Städte knien um ihn her
+Der Kirchenglocken ungeheure Zahl
+Wogt auf zu ihm aus schwarzer Türme Meer
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie Korybanten-Tanz dröhnt die Musik
+Der Millionen durch die Straßen laut
+Der Schlote Rauch, sie Wolken der Fabrik
+Ziehn auf zu ihm, wie Duft von Weihrauch blaut
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Das Wetter schwelt in seinen Augenbrauen
+Der dunkle Abend wird in Nacht betäubt
+Die Stürme flattern, die wie Geier schauen
+Von seinem Haupthaar, das im Zorne sträubt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Er streckt ins Dunkel seine Fleischerfaust
+Er schüttelt sie. Ein Meer von Feuer jagt
+Durch eine Straße. Und der Glutqualm braust
+Und frisst sie auf, bis spät der Morgen tagt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sehr weit ist diese Nacht. Und Wolkenschein
+Zerreißet vor des Mondes Untergang
+Und tausend Fenster stehn die Nacht entlang
+Und blinzeln mit den Lidern, rot und klein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie Aderwerk gehn Straßen durch die Stadt
+Unzählig Menschen schwemmen aus und ein
+Und ewig stumpfer Ton von stumpfem Sein
+Eintönig kommt heraus in Stille matt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nichts als Mauern. Ohne Gras und Glas
+zieht die Straße den gescheckten Gurt
+der Fassaden. Keine Bahnspur surrt
+Immer glänzt das Pflaster wassernass
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Streift ein Mensch dich, trifft sein Blick dich kalt
+bis ins Mark; die harten Schritte haun
+Feuer aus dem turmhoch steilen Zaun
+noch sein kurzer Atem wolkt geballt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Im Abend sind wir steile
+grünbebuschte Dünenwege hingeschritten
+Du ruhst an mich gedrängt
+Die Kreideklippe schwingt ihr schimmerndes Gefieder
+über tiefem Meere
+Hier, wo der Fels
+in jäher Todesgier ins Leere
+Hinüberlehnt, sind einst zwei Liebende
+ins weiche blaue Bett geglitten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fern tönt die Brandung
+Zwischen Küssen lausch ich der Legende
+Die lachend mir dein Mund
+in den erglühten Sommerabend spricht
+Doch tief mich beugend
+seh'ich wie im Glück erstarren dein Gesicht
+Und dumpfe Schwermut
+hinter deinen Wimpern warten und das nahe Ende
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auf faulen Straßen lagern Häuserrudel
+Um deren Buckel graue Sonne hellt
+Ein parfümierter, halbverrückter kleiner Pudel
+Wirft wüste Augen in die große Welt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In einem Fenster fängt ein Junge Fliegen
+Ein arg beschmiertes Baby ärgert sich
+Am Himmel fährt ein Zug, wo windge Wiesen liegen
+Malt langsam einen langen dicken Strich
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie Schreibmaschinen klappen Droschkenhufe
+Und lärmend kommt ein staubger Turnverein
+Aus Kutscherkneipen stürzen sich brutale Rufe
+Doch feine Glocken dringen auf sie ein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In Rummelplätzen, wo Athleten ringen
+Wird alles dunkler schon und ungenau
+Ein Leierkasten heult und Küchenmädchen singen
+Ein Mann zertrümmert eine morsche Frau
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Zehntausend starre Blöcke sind im Tal errichtet
+Aus: Stein auf Stein um Holz- und Eisenroste hochgeschichtet
+Und Block an Block zu einem Berg gedrückt
+Von Dampfrohr, Turm und Bahn noch überbrückt
+Von Draht, der Netz an Netze spinnt
+Der Berg, von vielen Furchen tief durchwühlt
+Das ist das große Labyrinth
+Dadurch das Schicksal Mensch um Menschen spült
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fünfhunderttausend rollt im Kreis das große Leben
+Durch alle Rinnen fort und fort in ungeheurem Streben
+In Kaufhaus, Werkstatt, Saal und Bahnhofshalle
+In Schule, Park, am Promenadenwalle
+Im Fahrstuhlschacht, im Bau am Krahn
+Treppauf und ab, durch Straßen über Plätze
+Auf Wagen, Rad und Straßenbahn
+Da schäumt des Menschenstrudels wirre Hetze
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fünfhunderttausend Menschen rollt das große Leben
+Durch alle Rinnen fort und fort in ungeheurem Streben
+Und karrt der Tod auch Hundert täglich fort
+Es braust der Lärm wie sonst an jedem Ort
+Schleppt er vom Hammer-Block den Schmied
+Schleppt er vom Kurven-Gleis den Wagenleiter
+Noch stärker brüllt das Straßenlied
+Der Wagen fährt- der Hammer dröhnt weiter
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Menschen stehen vorwärts in den Straßen
+Und sehen auf die großen Himmelszeichen
+Wo die Kometen mit den Feuernasen
+Um die gezackten Türme drohend schleichen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und alle Dächer sind voll Sternedeuter
+Die in den Himmel stecken große Röhren
+Und Zaubrer, wachsend aus den Bodenlöchern
+In Dunkel schräg, die einen Stern beschwören
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Krankheit und Mißwachs durch die Tore kriechen
+In schwarzen Tüchern. Und die Betten tragen
+Das Wälzen und das Jammern vieler Siechen
+Und welche rennen mit den Totenschragen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Selbstmörder gehen nachts in großen Horden
+Die suchen vor sich ihr verlornes Wesen
+Gebückt in Süd und West, und Ost und Norden
+Den Staub zerfegend mit den Armen-Besen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sie sind wie Staub, der hält noch eine Weile
+Die Haare fallen schon auf ihren Wegen
+Sie springen, daß sie sterben,'nun'in Eile
+Und sind mit totem Haupt im Feld gelegen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Noch manchmal zappelnd. Und der Felder Tiere
+Stehn um sie blind, und stoßen mit dem Horne
+In ihren Bauch. Sie strecken alle viere
+Begraben unter Salbei und dem Dorne
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Das Jahr ist tot und leer von seinen Winden
+Das wie ein Mantel hängt voll Wassertriefen
+Und ewig Wetter, die sich klagend winden
+Aus Tiefen wolkig wieder zu den Tiefen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Meere aber stocken. In den Wogen
+Die Schiffe hängen modernd und verdrossen
+Zerstreut, und keine Strömung wird gezogen
+Und aller Himmel Höfe sind verschlossen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Bäume wechseln nicht die Zeiten
+Und bleiben ewig tot in ihrem Ende
+Und über die verfallnen Wege spreiten
+Sie hölzern ihre langen Finger-Hände
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer stirbt, der setzt sich auf, sich zu erheben
+Und eben hat er noch ein Wort gesprochen
+Auf einmal ist er fort. Wo ist sein Leben?
+Und seine Augen sind wie Glas zerbrochen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schatten sind viele. Trübe und verborgen
+Und Träume, die an stummen Türen schleifen
+Und der erwacht, bedrückt von andern Morgen
+Muß schweren Schlaf von grauen Lidern streifen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die wüsten Straßen fließen lichterloh
+durch den erloschnen Kopf. Und tun mir weh
+Ich fühle deutlich, daß ich bald vergeh
+Dornrosen meines Fleisches, stecht nicht so
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Nacht verschimmelt. Giftlaternenschein
+Hat, kriechend, sie mit grünem Dreck beschmiert
+Das Herz ist wie ein Sack. Das Blut erfriert
+Die Welt fällt um. Die Augen stürzen ein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Am Abend liegt die Stätte öd und braun
+Die Luft von gräulichem Gestank durchzogen
+Das Donnern eines Zugs vom Brückenbogen
+Und Spatzen flattern über Busch und Zaun
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Geduckte Hütten, Pfade wirr verstreut
+In Gärten Durcheinander und Bewegung
+Bisweilen schwillt Geheul aus dumpfer Regung
+In einer Kinderschar fliegt rot ein Kleid
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Am Kehricht pfeift verliebt ein Rattenchor
+In Körben tragen Frauen Eingeweide
+Ein ekelhafter Zug voll Schmutz und Räude
+Kommen sie aus der Dämmerung hervor
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und ein Kanal speit plötzlich feistes Blut
+Vom Schlachthaus in den stillen Fluß hinunter
+Die Föhne färben karge Stauden bunter
+Und langsam kriecht die Röte durch die Flut
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ein Flüstern, das in trübem Schlaf ertrinkt
+Gebilde gaukeln auf aus Wassergräben
+Vielleicht Erinnerung an ein früheres Leben
+Die mit den warmen Winden steigt und sinkt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus Wolken tauchen schimmernde Alleen
+Erfüllt von schönen Wägen, kühnen Reitern
+Dann sieht man auch ein Schiff auf Klippen scheitern
+Und manchmal rosenfarbene Moscheen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sengen, brennen, schießen, stechen
+Schädel spalten, Rippen brechen
+spionieren, requirieren
+patrouillieren, exerzieren
+fluchen, bluten, hungern, frieren
+So lebt der edle Kriegerstand
+die Flinte in der linken Hand
+das Messer in der rechten Hand
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus dem Bett von Lehm und Jauche
+zur Attacke auf dem Bauche!
+Trommelfeuer – Handgranaten
+Wunden – Leichen – Heldentaten
+bravo, tapfere Soldaten!
+So lebt der edle Kriegerstand
+das Eisenkreuz am Preußenband
+die Tapferkeit am Bayernband
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Stillgestanden! Hoch die Beine!
+Augen gradeaus, ihr Schweine!
+Visitiert und schlecht befunden
+Keinen Urlaub. Angebunden
+Strafdienst extra sieben Stunden
+So lebt der edle Kriegerstand
+Jawohl, Herr Oberleutenant!
+Und zu Befehl, Herr Leutenant!
+Mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Vorwärts mit Tabak und Kümmel!
+Bajonette. Schlachtgetümmel
+Vorwärts! Sterben oder Siegen!
+Deutscher kennt kein Unterliegen
+Knochen splittern, Fetzen fliegen
+So lebt der edle Kriegerstand
+Der Schweiß tropft in den Grabenrand
+das Blut tropft in den Straßenrand
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Angeschossen – hochgeschmissen
+Bauch und Därme aufgerissen
+Rote Häuser – blauer Äther
+Teufel! Alle heiligen Väter!
+Mutter! Mutter!! Sanitäter!!!
+So stirbt der edle Kriegerstand
+in Stiefel, Maul und Ohren Sand
+und auf das Grab drei Schippen Sand
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach Liebste, laß uns eilen
+Wir haben Zeit
+Es schadet uns verweilen
+Uns beyderseit
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der edlen Schönheit Gaben
+Fliehen Fuß für Fuß
+Daß alles, was wir haben
+Verschwinden muß
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Wangen Ziehr verbleichet
+Das Haar wird greiß
+Der Augen Feuer weichet
+Die Brunst wird Eiß
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Das Mündlein von Corallen
+Wird ungestalt
+Die Händ'als Schnee verfallen
+Und du wirst alt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Drumb laß uns jetzt geniessen
+Der Jugend Frucht
+Eh'als wir folgen müssen
+Der Jahre Flucht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo du dich selber liebest
+So liebe mich
+Gieb mir das, wann du giebest
+Verlier auch ich
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich empfinde fast ein Grauen
+dass ich, Plato, für und für
+bin gesessen über dir
+Es ist Zeit hinauszuschauen
+und sich bei den frischen Quellen
+in dem Grünen zu ergehn
+wo die schönen Blumen stehn
+und die Fischer Netze stellen!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wozu dienet das Studieren
+als zu lauter Ungemach!
+Unterdessen läuft die Bach
+unsers Lebens, das wir führen
+ehe wir es inne werden
+auf ihr letztes Ende hin
+dann kömmt ohne Geist und Sinn
+dieses alles in die Erden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Holla, Junger, geh und frage
+wo der beste Trunk mag sein
+nimm den Krug und fülle Wein!
+Alles Trauren, Leid und Klage
+wie wir Menschen täglich haben
+eh uns Clotho fortgerafft
+will ich in den süssen Saft
+den die Traube gibt, vergraben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Kaufe gleichfalls auch Melonen
+und vergiss des Zuckers nicht
+schaue nur, dass nichts gebricht!
+Jener mag der Heller schonen
+der bei seinem Gold und Schätzen
+tolle sich zu kränken pflegt
+und nicht satt zu Bette legt
+ich will, weil ich kann, mich letzen!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Bitte meine guten Brüder
+auf die Musik und ein Glas!
+Kein Ding schickt sich, dünkt mich, bass
+als gut Trank und gute Lieder
+Lass ich gleich nicht viel zu erben
+ei, so hab ich edlen Wein!
+Will mit andern lustig sein
+muss ich gleich alleine sterben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir sind doch nunmehr ganz, ja mehr denn ganz verheeret!
+Der frechen Völker Schar, die rasende Posaun
+Das vom Blut fette Schwert, die donnernde Karthaun
+Hat aller Schweiß, und Fleiß, und Vorrat aufgezehret
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Türme stehn in Glut, die Kirch'ist umgekehret
+Das Rathaus liegt im Grauß, die Starken sind zerhaun
+Die Jungfern sind geschänd't, und wo wir hin nur schaun
+Ist Feuer, Pest, und Tod, der Herz und Geist durchfähret
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In dieser Einsamkeit, der mehr denn öden Wüsten
+Gestreckt auf wildes Kraut, an die bemooste See
+Beschau ich jenes Tal und dieser Felsen Höh
+Auf welchem Eulen nur und stille Vögel nisten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hier, fern von dem Palast; weit von des Pöbels Lüsten
+Betracht'ich: wie der Mensch in Eitelkeit vergeh
+Wie, auf nicht festem Grund all unser Hoffen steh
+Wie die vor Abend schmähn, die vor dem Tag uns grüßten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie sehr der Wirbelstrom so vieler Angst und plagen
+mich drähet um und um / so bistu doch mein Hort
+mein mittel punct / in dem mein Zirkel fort und fort
+mein Geist halb hafften bleibt vom sturm unausgeschlagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Mein Zünglein stehet stät / von Wellen fort getragen
+auf meinen Stern gericht. Mein Herz und Aug′ ist dort
+es wartet schon auf mich am Ruhe-vollen Port
+dieweil muß ich mich keck in weh und See hinwagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Du siehst, wohin du siehst nur Eitelkeit auf Erden
+Was dieser heute baut, reißt jener morgen ein
+Wo itzund Städte stehn, wird eine Wiese sein
+Auf der ein Schäferskind wird spielen mit den Herden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Was itzund prächtig blüht, soll bald zertreten werden
+Was itzt so pocht und trotzt ist Morgen Asch und Bein
+Nichts ist, das ewig sei, kein Erz, kein Marmorstein
+Itzt lacht das Glück uns an, bald donnern die Beschwerden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie im Morgenglanze
+du rings mich anglühst
+Frühling, Geliebter!
+Mit tausendfacher Liebeswonne
+sich an mein Herz drängt
+deiner ewigen Wärme
+heilig Gefühl
+unendliche Schöne!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Daß ich dich fassen möcht
+in diesen Arm!
+Ich komm'! Ich komme!
+Wohin? Ach, wohin?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hinauf! Hinauf strebt's
+Es schweben die Wolken
+abwärts, die Wolken
+neigen sich der sehnenden Liebe
+Mir! Mir!
+In euerm Schoße
+aufwärts!
+Umfangend umfangen!
+Aufwärts an deinen Busen
+alliebender Vater!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach, an deinem Busen
+lieg'ich, schmachte
+und deine Blumen, dein Gras
+drängen sich an mein Herz
+Du kühlst den brennenden
+Durst meines Busens
+lieblicher Morgenwind
+ruft drein die Nachtigall
+liebend nach mir aus dem Nebeltal
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach, daß die inn're Schöpfungskraft
+Durch meinen Sinn erschölle!
+Daß eine Bildung voller Saft
+Aus meinen Fingern quölle!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich zittre nur, ich stottre nur
+Und kann es doch nicht lassen
+Ich fühl', ich kenne dich, Natur
+Und so muß ich dich fassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Bedenk'ich dann, wie manches Jahr
+Sich schon mein Sinn erschließet
+Wie er, wo dürre Heide war
+Nun Freudenquell genießet
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie sehn'ich mich, Natur, nach dir
+Dich treu und lieb zu fühlen!
+Ein lust'ger Springbrunn, wirst du mir
+Aus tausend Röhren spielen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wirst alle meine Kräfte mir
+In meinem Sinn erheitern
+Und dieses enge Dasein hier
+Zur Ewigkeit erweitern
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich kenne nichts Ärmeres
+Unter der Sonn'als euch Götter!
+Ihr nähret kümmerlich
+Von Opfersteuern
+Und Gebetshauch
+Eure Majestät
+Und darbtet, wären
+Nicht Kinder und Bettler
+Hoffnungsvolle Toren
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da ich ein Kind war
+Nicht wußte, wo aus, wo ein
+Kehrt'ich mein verirrtes Auge
+Zur Sonne, als wenn drüber wär
+Ein Ohr zu hören meine Klage
+Ein Herz wie meins
+Sich des Bedrängten zu erbarmen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer half mir
+Wider der Titanen Übermut?
+Wer rettete vom Tode mich
+Von Sklaverei?
+Hast du's nicht alles selbst vollendet
+Heilig glühend Herz?
+Und glühtest, jung und gut
+Betrogen, Rettungsdank
+Dem Schlafenden dadroben?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich dich ehren? Wofür?
+Hast du die Schmerzen gelindert
+Je des Beladenen?
+Hast du die Tränen gestillet
+Je des Geängsteten?
+Hat nicht mich zum Manne geschmiedet
+Die allmächtige Zeit
+Und das ewige Schicksal
+Meine Herren und deine?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wähntest du etwa
+Ich sollte das Leben hassen
+In Wüsten fliehn
+Weil nicht alle Knabenmorgen
+Blütenträume reiften?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hier sitz'ich, forme Menschen
+Nach meinem Bilde
+Ein Geschlecht, das mir gleich sei
+Zu leiden, weinen
+Genießen und zu freuen sich
+Und dein nicht zu achten
+Wie ich!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Mond ist aufgegangen
+Die goldnen Sternlein prangen
+Am Himmel hell und klar
+Der Wald steht schwarz und schweiget
+Und aus den Wiesen steiget
+Der weiße Nebel wunderbar
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie ist die Welt so stille
+Und in der Dämmrung Hülle
+So traulich und so hold!
+Als eine stille Kammer
+Wo ihr des Tages Jammer
+Verschlafen und vergessen sollt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Seht ihr den Mond dort stehen?
+Er ist nur halb zu sehen
+Und ist doch rund und schön!
+So sind wohl manche Sachen
+Die wir getrost belachen
+Weil unsre Augen sie nicht sehn
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir stolze Menschenkinder
+Sind eitel arme Sünder
+Und wissen gar nicht viel
+Wir spinnen Luftgespinste
+Und suchen viele Künste
+Und kommen weiter von dem Ziel
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Gott, laß uns dein Heil schauen
+Auf nichts Vergänglichs trauen
+Nicht Eitelkeit uns freun!
+Laß uns einfältig werden
+Und vor dir hier auf Erden
+Wie Kinder fromm und fröhlich sein!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wollst endlich sonder Grämen
+Aus dieser Welt uns nehmen
+Durch einen sanften Tod!
+Und, wenn du uns genommen
+Laß uns in Himmel kommen
+Du unser Herr und unser Gott!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+So legt euch denn, ihr Brüder
+In Gottes Namen nieder
+Kalt ist der Abendhauch
+Verschon uns, Gott! mit Strafen
+Und laß uns ruhig schlafen!
+Und unsern kranken Nachbar auch!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Winter ist ein rechter Mann
+kernfest und auf die Dauer
+sein Fleisch fühlt sich wie Eisen an
+Er scheut nicht süß noch sauer
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Er zieht sein Hemd im Freien an
+Und läßt‘s vorher nicht wärmen
+Und spottet über Fluß im
+Und Kolik in Gedärmen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus Blumen und aus Vogelsang
+Weiß er sich nichts zu machen
+Haßt warmen Drang und warmen Klang
+Und alle warmen Sachen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Doch wenn die Füchse bellen sehr
+Wenn‘s Holz im Ofen knittert
+Und an dem Ofen Knecht und Herr
+Die Hände reibt und zittert
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wenn Stein und Bein vor Frost zerbricht
+und Teich und Seen krachen
+das klingt ihm gut, das haßt er nicht
+dann will er sich totlachen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sein Schloß von Eis liegt ganz hinaus
+beim Nordpol an dem Strande
+doch hat er auch ein Sommerhaus
+im lieben Schweizerlande
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da ist er denn bald dort bald hier
+gut Regiment zu führen
+und wenn er durchzieht stehn wir
+und sehn ihn an und frieren
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Edel sei der Mensch
+Hilfreich und gut!
+Denn das allein
+Unterscheidet ihn
+Von allen Wesen
+Die wir kennen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Heil den unbekannten
+Höhern Wesen
+Die wir ahnen!
+Ihnen gleiche der Mensch!
+Sein Beispiel lehr uns
+Jene glauben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Denn unfühlend
+Ist die Natur
+Es leuchtet die Sonne
+Über Bös und Gute
+Und dem Verbrecher
+Glänzen wie dem Besten
+der Mond und die Sterne
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wind und Ströme
+Donner und Hagel
+Rauschen ihren Weg
+Und ergreifen
+Vorüber eilend
+Einen um den andern
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auchso das Glück
+Tappt unter die Menge
+Faßt bald des Knaben
+Lockige Unschuld
+Bald auch den kahlen
+Schuldigen Scheitel
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nach ewigen, ehrnen
+Großen Gesetzen
+Müssen wir alle
+Unseres Daseins
+Kreise vollenden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nur allein der Mensch
+Vermag das Unmögliche
+Er unterscheidet
+Wählet und richtet
+Er kann dem Augenblick
+Dauer verleihen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Er allein darf
+Den Guten lohnen
+Den Bösen strafen
+Heilen und retten
+Alles Irrende, Schweifende
+Nützlich verbinden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und wir verehren
+Die Unsterblichen
+Als wären sie Menschen
+Täten im großen
+Was der Beste im kleinen
+tut oder möchte
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der edle Mensch
+Sei hilfreich und gut!
+Unermüdet schaff er
+Das Nützliche, Rechte
+Sei uns ein Vorbild
+Jener geahneten Wesen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nur Einen Sommer gönnt, ihr Gewaltigen!
+Und einen Herbst zu reifem Gesange mir
+Daß williger mein Herz, vom süßen
+Spiele gesättiget, dann mir sterbe
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Seele, der im Leben ihr göttlich Recht
+Nicht ward, sie ruht auch drunten im Orkus nicht
+Doch ist mir einst das Heil'ge, das am
+Herzen mir liegt, das Gedicht gelungen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Willkommen dann, o Stille der Schattenwelt!
+Zufrieden bin ich, wenn auch mein Saitenspiel
+Mich nicht hinab geleitet; Einmal
+Lebt ich, wie Götter, und mehr bedarfs nicht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Zu Dionys, dem Tyrannen, schlich
+Damon, den Dolch im Gewande
+Ihn schlugen die Häscher in Bande
+"Was wolltest du mit dem Dolche? sprich!
+Entgegnet ihm finster der Wüterich
+"Die Stadt vom Tyrannen befreien!
+"Das sollst du am Kreuze bereuen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Ich bin", spricht jener, "zu sterben bereit
+Und bitte nicht um mein Leben
+Doch willst du Gnade mir geben
+Ich flehe dich um drei Tage Zeit
+Bis ich die Schwester dem Gatten gefreit
+Ich lasse den Freund dir als Bürgen
+Ihn magst du, entrinn'ich, erwürgen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da lächelt der König mit arger List
+Und spricht nach kurzem Bedenken
+"Drei Tage will ich dir schenken
+Doch wisse, wenn sie verstrichen, die Frist
+Eh'du zurück mir gegeben bist
+So muß er statt deiner erblassen
+Doch dir ist die Strafe erlassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und er kommt zum Freunde: "Der König gebeut
+Daß ich am Kreuz mit dem Leben
+Bezahle das frevelnde Streben
+Doch will er mir gönnen drei Tage Zeit
+Bis ich die Schwester dem Gatten gefreit
+So bleib du dem König zum Pfande
+Bis ich komme zu lösen die Bande
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und schweigend umarmt ihn der treue Freund
+Und liefert sich aus dem Tyrannen
+Der andere ziehet von dannen
+Und ehe das dritte Morgenrot scheint
+Hat er schnell mit dem Gatten die Schwester vereint
+Eilt heim mit sorgender Seele
+Damit er die Frist nicht verfehle
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da gießt unendlicher Regen herab
+Von den Bergen stürzen die Quellen
+Und die Bäche, die Ströme schwellen
+Und er kommt ans Ufer mit wanderndem Stab
+Da reißet die Brücke der Strudel herab
+Und donnernd sprengen die Wogen
+Des Gewölbes krachenden Bogen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und trostlos irrt er an Ufers Rand
+Wie weit er auch spähet und blicket
+Und die Stimme, die rufende, schicket
+Da stößet kein Nachen vom sichern Strand
+Der ihn setze an das gewünschte Land
+Kein Schiffer lenket die Fähre
+Und der wilde Strom wird zum Meere
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da sinkt er ans Ufer und weint und fleht
+Die Hände zum Zeus erhoben
+"O hemme des Stromes Toben!
+Es eilen die Stunden, im Mittag steht
+Die Sonne, und wenn sie niedergeht
+Und ich kann die Stadt nicht erreichen
+So muß der Freund mir erbleichen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Doch wachsend erneut sich des Stromes Wut
+Und Welle auf Welle zerrinnet
+Und Stunde an Stunde ertrinnet
+Da treibt ihn die Angst, da faßt er sich Mut
+Und wirft sich hinein in die brausende Flut
+Und teilt mit gewaltigen Armen
+Den Strom, und ein Gott hat Erbarmen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und gewinnt das Ufer und eilet fort
+Und danket dem rettenden Gotte
+Da stürzet die raubende Rotte
+Hervor aus des Waldes nächtlichem Ort
+Den Pfad ihm sperrend, und schnaubert Mord
+Und hemmet des Wanderers Eile
+Mit drohend geschwungener Keule
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Was wollt ihr?" ruft er vor Schrecken bleich
+"Ich habe nichts als mein Leben
+Das muß ich dem Könige geben!
+Und entreißt die Keule dem nächsten gleich
+"Um des Freundes willen erbarmet euch!
+Und drei mit gewaltigen Streichen
+Erlegt er, die andern entweichen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Sonne versendet glühenden Brand
+Und von der unendlichen Mühe
+Ermattet sinken die Kniee
+"O hast du mich gnädig aus Räubershand
+Aus dem Strom mich gerettet ans heilige Land
+Und soll hier verschmachtend verderben
+Und der Freund mir, der liebende, sterben!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und horch! da sprudelt es silberhell
+Ganz nahe, wie rieselndes Rauschen
+Und stille hält er, zu lauschen
+Und sieh, aus dem Felsen, geschwätzig, schnell
+Springt murmelnd hervor ein lebendiger Quell
+Und freudig bückt er sich nieder
+Und erfrischet die brennenden Glieder
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Sonne blickt durch der Zweige Grün
+Und malt auf den glänzenden Matten
+Der Bäume gigantische Schatten
+Und zwei Wanderer sieht er die Straße ziehn
+Will eilenden Laufes vorüber fliehn
+Da hört er die Worte sie sagen
+"Jetzt wird er ans Kreuz geschlagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Angst beflügelt den eilenden Fuß
+Ihn jagen der Sorge Qualen
+Da schimmern in Abendrots Strahlen
+Von ferne die Zinnen von Syrakus
+Und entgegen kommt ihm Philostratus
+Des Hauses redlicher Hüter
+Der erkennet entsetzt den Gebieter
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Zurück! du rettest den Freund nicht mehr
+So rette das eigene Leben!
+Den Tod erleidet er eben
+Von Stunde zu Stunde gewartet'er
+Mit hoffender Seele der Wiederkehr
+Ihm konnte den mutigen Glauben
+Der Hohn des Tyrannen nicht rauben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+"Und ist es zu spät, und kann ich ihm nicht
+Ein Retter, willkommen erscheinen
+So soll mich der Tod ihm vereinen
+Des rühme der blut'ge Tyrann sich nicht
+Daß der Freund dem Freunde gebrochen die Pflicht
+Er schlachte der Opfer zweie
+Und glaube an Liebe und Treue!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und die Sonne geht unter, da steht er am Tor
+Und sieht das Kreuz schon erhöhet
+Das die Menge gaffend umstehet
+An dem Seile schon zieht man den Freund empor
+Da zertrennt er gewaltig den dichter Chor
+"Mich, Henker", ruft er, "erwürget!
+Da bin ich, für den er gebürget!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und Erstaunen ergreifet das Volk umher
+In den Armen liegen sich beide
+Und weinen vor Schmerzen und Freude
+Da sieht man kein Augen tränenleer
+Und zum Könige bringt man die Wundermär
+Der fühlt ein menschliches Rühren
+Läßt schnell vor den Thron sie führen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und blicket sie lange verwundert an
+Drauf spricht er: "Es ist euch gelungen
+Ihr habt das Herz mir bezwungen
+Und die Treue, sie ist doch kein leerer Wahn
+So nehmet auch mich zum Genossen an
+Ich sei, gewährt mir die Bitte
+In eurem Bunde der dritte!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ein Strom entrauscht umwölktem Felsensaale
+Dem Ozean sich eilig zu verbinden
+Was auch sich spiegeln mag von Grund zu Gründen
+Er wandelt unaufhaltsam fort zu Tale
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dämonisch aber stürzt mit einem Male
+Ihr folgen Berg und Wald in Wirbelwinden
+Sich Oreas, Behagen dort zu finden
+Und hemmt den Lauf, begrenzt die weite Schale
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+O Täler weit, o Höhen
+O schöner, grüner Wald
+Du meiner Lust und Wehen
+Andächt'ger Aufenthalt!
+Da draußen, stets betrogen
+Saust die geschäft'ge Welt
+Schlag noch einmal die Bogen
+Um mich, du grünes Zelt!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wenn es beginnt zu tagen
+Die Erde dampft und blinkt
+Die Vögel lustig schlagen
+Daß dir dein Herz erklingt
+Da mag vergehn, verwehen
+Das trübe Erdenleid
+Da sollst du auferstehen
+In junger Herrlichkeit!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Da steht im Wald geschrieben
+Ein stilles, ernstes Wort
+Von rechtem Tun und Lieben
+Und was des Menschen Hort
+Ich habe treu gelesen
+Die Worte, schlicht und wahr
+Und durch mein ganzes Wesen
+Wards unaussprechlich klar
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Bald werd ich dich verlassen
+Fremd in der Fremde gehn
+Auf buntbewegten Gassen
+Des Lebens Schauspiel sehn
+Und mitten in dem Leben
+Wird deines Ernsts Gewalt
+Mich Einsamen erheben
+So wird mein Herz nicht alt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich ging im Walde
+So vor mich hin
+Und nichts zu suchen
+Das war mein Sinn
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Im Schatten sah ich
+Ein Blümlein stehn
+Wie Sterne blinkend
+Wie Äuglein schön
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich wollt es brechen
+Da sagt'es fein
+Soll ich zum Welken
+Gebrochen sein?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Mit allen Wurzeln
+Hob ich es aus
+Und trugs zum Garten
+Am hübschen Haus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich pflanzt es wieder
+Am kühlen Ort
+Nun zweigt und blüht es
+Mir immer fort
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es zogen zwei rüstge Gesellen
+Zum erstenmal von Haus
+So jubelnd recht in die hellen
+Klingenden, singenden Wellen
+Des vollen Frühlings hinaus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die strebten nach hohen Dingen
+Die wollten, trotz Lust und Schmerz
+Was Rechts in der Welt vollbringen
+Und wem sie vorübergingen
+Dem lachten Sinn und Herz
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der erste, der fand ein Liebchen
+Die Schwieger kauft´ Hof und Haus
+Der wiegte gar bald ein Bübchen
+Und sah aus heimlichem Stübchen
+Behaglich ins Feld hinaus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dem zweiten sangen und logen
+Die tausend Stimmen im Grund
+Verlockend´ Sirenen, und zogen
+Ihn in der buhlenden Wogen
+Farbig klingenden Schlund
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und wie er auftaucht vom Schlunde
+Da war er müde und alt
+Sein Schifflein das lag im Grunde
+So still wars rings in der Runde
+Und über die Wasser wehts kalt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es singen und klingen die Wellen
+Des Frühlings wohl über mir
+Und seh ich so kecke Gesellen
+Die Tränen im Auge mir schwellen
+Ach Gott, führ mich liebreich zu Dir!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus alten Märchen winkt es
+Hervor mit weißer Hand
+Da singt es und da klingt es
+Von einem Zauberland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo große Blumen schmachten
+Im goldnen Abendlicht
+Und zärtlich sich betrachten
+Mit bräutlichem Gesicht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo alle Bäume sprechen
+Und singen, wie ein Chor
+Und laute Quellen brechen
+Wie Tanzmusik hervor
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und Liebesweisen tönen
+Wie du sie nie gehört
+Bis wundersüßes Sehnen
+Dich wundersüß betört!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach, könnt ich dorthin kommen
+Und dort mein Herz erfreun
+Und aller Qual entnommen
+Und frei und selig sein!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ach! jenes Land der Wonne
+Das seh ich oft im Traum
+Doch kommt die Morgensonne
+Zerfließts wie eitel Schaum
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wem Gott will rechte Gunst erweisen
+Den schickt er in die weite Welt
+Dem will er seine Wunder weisen
+In Berg und Wald und Strom und Feld
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Trägen, die zu Hause liegen
+Erquicket nicht das Morgenrot
+Sie wissen nur von Kinderwiegen
+Von Sorgen, Last und Not um Brot
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Bächlein von den Bergen springen
+Die Lerchen schwirren hoch vor Lust
+Was sollt ich nicht mit ihnen singen
+Aus voller Kehl und frischer Brust?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Den lieben Gott lass ich nur walten
+Der Bächlein, Lerchen, Wald und Feld
+Und Erd und Himmel will erhalten
+Hat auch mein Sach aufs best bestellt!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich muß hinaus, ich muß zu dir
+Ich muß es selbst dir sagen
+Du bist mein Frühling, du nur mir
+In diesen lichten Tagen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich will die Rosen nicht mehr sehn
+Nicht mehr die grünen Matten
+Ich will nicht mehr zu Walde gehn
+Nach Duft und Klang und Schatten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich will nicht mehr der Lüfte Zug
+Nicht mehr der Wellen Rauschen
+Ich will nicht mehr der Vögel Flug
+Und ihrem Liede lauschen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ich will hinaus, ich will zu dir
+Ich will es selbst dir sagen
+Du bist mein Frühling, du nur mir
+In diesen lichten Tagen!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hörst du nicht die Bäume rauschen
+Draußen durch die stille Rund?
+Lockts dich nicht, hinabzulauschen
+Von dem Söller in den Grund
+Wo die vielen Bäche gehen
+Wunderbar im Mondenschein
+Und die stillen Schlösser sehen
+In den Fluß vom hohen Stein?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Kennst du noch die irren Lieder
+Aus der alten, schönen Zeit?
+Sie erwachen alle wieder
+Nachts in Waldeseinsamkeit
+Wenn die Bäume träumend lauschen
+Und der Flieder duftet schwül
+Und im Fluß die Nixen rauschen
+Komm herab, hier ists so kühl
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es schienen so golden die Sterne
+Am Fenster ich einsam stand
+Und hörte aus weiter Ferne
+Ein Posthorn im stillen Land
+Das Herz mir im Leib entbrennte
+Da hab ich mir heimlich gedacht
+Ach, wer da mitreisen könnte
+In der prächtigen Sommernacht!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Zwei junge Gesellen gingen
+Vorüber am Bergeshang
+Ich hörte im Wandern sie singen
+Die stille Gegend entlang
+Von schwindelnden Felsenschlüften
+Wo die Wälder rauschen so sacht
+Von Quellen, die von den Klüften
+Sich stürzen in die Waldesnacht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sie sangen von Marmorbildern
+Von Gärten, die überm Gestein
+In dämmernden Lauben verwildern
+Palästen im Mondenschein
+Wo die Mädchen am Fenster lauschen
+Wann der Lauten Klang erwacht
+Und die Brunnen verschlafen rauschen
+In der prächtigen Sommernacht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Laue Luft kommt blau geflossen
+Frühling, Frühling soll es sein!
+Waldwärts Hörnerklang geschossen
+Mutger Augen lichter Schein
+Und das Wirren bunt und bunter
+Wird ein magisch wilder Fluß
+In die schöne Welt hinunter
+Lockt dich dieses Stromes Gruß
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und ich mag mich nicht bewahren!
+Weit von euch treibt mich der Wind
+Auf dem Strome will ich fahren
+Von dem Glanze selig blind!
+Tausend Stimmen lockend schlagen
+Hoch Aurora flammend weht
+Fahre zu! Ich mag nicht fragen
+Wo die Fahrt zu Ende geht!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Deutschland- auf weichem Pfühle
+Mach'dir den Kopf nicht schwer!
+Im irdischen Gewühle
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Laß jede Freiheit dir rauben
+Setze dich nicht zur Wehr
+Du behältst ja den christlichen Glauben
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und ob man dir alles verböte
+Doch gräme dich nicht zu sehr
+Du hast ja Schiller und Goethe
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dein König beschützt die Kamele
+Und macht sie pensionär
+Dreihundert Taler die Seele
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es fechten dreihundert Blätter
+Im Schatten, ein Sparterheer
+Und täglich erfährst du das Wetter
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Kein Kind läuft ohne Höschen
+Am Rhein, dem freien, umher
+Mein Deutschland, mein Dornröschen
+Schlafe, was willst du mehr?
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Verehrter Herr und König
+Weißt du die schlimme Geschicht?
+Am Montag aßen wir wenig
+Und am Dienstag aßen wir nicht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und am Mittwoch mußten wir darben
+Und am Donnerstag litten wir Not
+Und ach, am Freitag starben
+Wir fast den Hungertod!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Drum laß am Samstag backen
+Das Brot, fein säuberlich
+Sonst werden wir sonntags packen
+Und fressen, o König, dich!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir Bürgermeister und Senat
+Wir haben folgendes Mandat
+Stadtväterlichst an alle Klassen
+Der treuen Bürgerschaft erlassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ausländer, Fremde, sind es meist
+Die unter uns gesät den Geist
+Der Rebellion. Dergleichen Sünder
+Gottlob! sind selten Landeskinder
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auch Gottesleugner sind es meist
+Wer sich von seinem Gotte reißt
+Wird endlich auch abtrünnig werden
+Von seinen irdischen Behörden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Obrigkeit gehorchen, ist
+Die erste Pflicht für Jud und Christ
+Es schließe jeder seine Bude
+Sobald es dunkelt, Christ und Jude
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wo ihrer drei beisammen stehn
+Da soll man auseinander gehn
+Des Nachts soll niemand auf den Gassen
+Sich ohne Leuchte sehen lassen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Es liefre seine Waffen aus
+Ein jeder in dem Gildenhaus
+Auch Munition von jeder Sorte
+Wird deponiert am selben Orte
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer auf der Straße räsoniert
+Wird unverzüglich füsiliert
+Das Räsonieren durch Gebärden
+Soll gleichfalls hart bestrafet werden
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Vertrauet Eurem Magistrat
+Der fromm und liebend schützt den Staat
+Durch huldreich hochwohlweises Walten
+Euch ziemt es, stets das Maul zu halten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der Straßenlärm betäubend zu mir drang
+In großer Trauer, schlank, von Schmerz gestrafft
+Schritt eine Frau vorbei, die mit der Hand gerafft
+Den Saum des Kleides hob, der glockig schwang
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Anmutig, wie gemeißelt war das Bein
+Und ich, erstarrt, wie außer mich gebracht
+Vom Himmel ihrer Augen, wo ein Sturm erwacht
+Sog Süße, die betört, und Lust, die tötet, ein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Empor mein Volk! Das Schwert zur Hand!
+Und brich hervor in Haufen!
+Vom heil’gen Zorn ums Vaterland
+Mit Feuer laß dich taufen!
+Der Erbfeind beut dir Schmach und Spott
+Das Maß ist voll, zur Schlacht mit Gott!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Dein Haus in Frieden auszubau’n
+Stand all dein Sinn und Wollen
+Da bricht den Hader er vom Zaun
+Von Gift und Neid geschwollen
+Komm über ihn und seine Brut
+Das frevelhaft vergossne Blut!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wir träumen nicht von raschem Sieg
+Von leichten Ruhmeszügen
+Ein Weltgericht ist dieser Krieg
+Und stark der Geist der Lügen
+Doch der einst unsrer Väter Burg
+Getrost, er führt auch uns hindurch!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schon läßt er klar bei Tag und Nacht
+Uns seine Zeichen schauen
+Die Flammen hat er angefacht
+In allen deutschen Gauen
+Von Stamm zu Stamme lodert's fort
+Kein Mainstrom mehr, kein Süd und Nord!
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Voran denn, kühner Preußenaar
+Voran durch Schlacht und Grausen!
+Wie Sturmwind schwellt dein Flügelpaar
+Vom Himmel her ein Brausen
+Das ist des alten Blüchers Geist
+Der dir die rechte Straße weist
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Flieg, Adler, flieg! Wir stürmen nach
+Ein einig Volk in Waffen
+Wir stürmen nach, ob tausendfach
+Des Todes Pforten klaffen
+Und fallen wir: flieg Adler, flieg!
+Aus unsrem Blute wächst der Sieg
+Vorwärts!
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sie trug den Becher in der Hand
+Ihr Kinn und Mund glich seinem Rand
+So leicht und sicher war ihr Gang
+Kein Tropfen aus dem Becher sprang
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+So leicht und fest war seine Hand
+Er ritt auf einem jungen Pferde
+Und mit nachlässiger Gebärde
+Erzwang er, daß es zitternd stand
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Jedoch, wenn er aus ihrer Hand
+Den leichten Becher nehmen sollte
+So war es beiden allzu schwer
+Denn beide bebten sie so sehr
+Daß keine Hand die andre fand
+Und dunkler Wein am Boden rollte
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sein Blick ist vom Vorübergehn der Stäbe
+so müd geworden, dass er nichts mehr hält
+Ihm ist, als ob es tausend Stäbe gäbe
+und hinter tausend Stäben keine Welt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Der weiche Gang geschmeidig starker Schritte
+der sich im allerkleinsten Kreise dreht
+ist wie ein Tanz von Kraft um eine Mitte
+in der betäubt ein großer Wille steht
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nur manchmal schiebt der Vorhang der Pupille
+sich lautlos auf-. Dann geht ein Bild hinein
+geht durch der Glieder angespannte Stille
+und hört im Herzen auf zu sein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Befiehl den letzten Früchten, voll zu sein
+gib ihnen noch zwei südlichere Tage
+dränge sie zur Vollendung hin, und jage
+die letzte Süße in den schweren Wein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer jetzt kein Haus hat, baut sich keines mehr
+Wer jetzt allein ist, wird es lange bleiben
+wird wachen, lesen, lange Briefe schreiben
+und wird in den Alleen hin und her
+unruhig wandern, wenn die Blätter treiben
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Am Abend, wenn die Glocken Frieden läuten
+Folg ich der Vögel wundervollen Flügen
+Die lang geschart, gleich frommen Pilgerzügen
+Entschwinden in den herbstlich klaren Weiten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Hinwandelnd durch den dämmervollen Garten
+Träum ich nach ihren helleren Geschicken
+Und fühl der Stunden Weiser kaum mehr rücken
+So folg ich über Wolken ihren Fahrten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schornsteine stehn in großem Zwischenraum
+Im Wintertag, und tragen seine Last
+Des schwarzen Himmels dunkelnden Palast
+Wie goldne Stufe brennt sein niedrer Saum
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fern zwischen kahlen Bäumen, manchem Haus
+Zäunen und Schuppen, wo die Weltstadt ebbt
+Und auf vereisten Schienen mühsam schleppt
+Ein langer Güterzug sich schwer hinaus
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auf einem Häuserblocke sitzt er breit
+Die Winde lagern schwarz um seine Stirn
+Er schaut voll Wut, wo fern in Einsamkeit
+Die letzten Häuser in das Land verirrn
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Vom Abend glänzt der rote Bauch dem Baal
+Die großen Städte knien um ihn her
+Der Kirchenglocken ungeheure Zahl
+Wogt auf zu ihm aus schwarzer Türme Meer
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie Korybanten-Tanz dröhnt die Musik
+Der Millionen durch die Straßen laut
+Der Schlote Rauch, sie Wolken der Fabrik
+Ziehn auf zu ihm, wie Duft von Weihrauch blaut
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Das Wetter schwelt in seinen Augenbrauen
+Der dunkle Abend wird in Nacht betäubt
+Die Stürme flattern, die wie Geier schauen
+Von seinem Haupthaar, das im Zorne sträubt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Er streckt ins Dunkel seine Fleischerfaust
+Er schüttelt sie. Ein Meer von Feuer jagt
+Durch eine Straße. Und der Glutqualm braust
+Und frisst sie auf, bis spät der Morgen tagt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sehr weit ist diese Nacht. Und Wolkenschein
+Zerreißet vor des Mondes Untergang
+Und tausend Fenster stehn die Nacht entlang
+Und blinzeln mit den Lidern, rot und klein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie Aderwerk gehn Straßen durch die Stadt
+Unzählig Menschen schwemmen aus und ein
+Und ewig stumpfer Ton von stumpfem Sein
+Eintönig kommt heraus in Stille matt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Nichts als Mauern. Ohne Gras und Glas
+zieht die Straße den gescheckten Gurt
+der Fassaden. Keine Bahnspur surrt
+Immer glänzt das Pflaster wassernass
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Streift ein Mensch dich, trifft sein Blick dich kalt
+bis ins Mark; die harten Schritte haun
+Feuer aus dem turmhoch steilen Zaun
+noch sein kurzer Atem wolkt geballt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Im Abend sind wir steile
+grünbebuschte Dünenwege hingeschritten
+Du ruhst an mich gedrängt
+Die Kreideklippe schwingt ihr schimmerndes Gefieder
+über tiefem Meere
+Hier, wo der Fels
+in jäher Todesgier ins Leere
+Hinüberlehnt, sind einst zwei Liebende
+ins weiche blaue Bett geglitten
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fern tönt die Brandung
+Zwischen Küssen lausch ich der Legende
+Die lachend mir dein Mund
+in den erglühten Sommerabend spricht
+Doch tief mich beugend
+seh'ich wie im Glück erstarren dein Gesicht
+Und dumpfe Schwermut
+hinter deinen Wimpern warten und das nahe Ende
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Auf faulen Straßen lagern Häuserrudel
+Um deren Buckel graue Sonne hellt
+Ein parfümierter, halbverrückter kleiner Pudel
+Wirft wüste Augen in die große Welt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In einem Fenster fängt ein Junge Fliegen
+Ein arg beschmiertes Baby ärgert sich
+Am Himmel fährt ein Zug, wo windge Wiesen liegen
+Malt langsam einen langen dicken Strich
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wie Schreibmaschinen klappen Droschkenhufe
+Und lärmend kommt ein staubger Turnverein
+Aus Kutscherkneipen stürzen sich brutale Rufe
+Doch feine Glocken dringen auf sie ein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+In Rummelplätzen, wo Athleten ringen
+Wird alles dunkler schon und ungenau
+Ein Leierkasten heult und Küchenmädchen singen
+Ein Mann zertrümmert eine morsche Frau
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Zehntausend starre Blöcke sind im Tal errichtet
+Aus: Stein auf Stein um Holz- und Eisenroste hochgeschichtet
+Und Block an Block zu einem Berg gedrückt
+Von Dampfrohr, Turm und Bahn noch überbrückt
+Von Draht, der Netz an Netze spinnt
+Der Berg, von vielen Furchen tief durchwühlt
+Das ist das große Labyrinth
+Dadurch das Schicksal Mensch um Menschen spült
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fünfhunderttausend rollt im Kreis das große Leben
+Durch alle Rinnen fort und fort in ungeheurem Streben
+In Kaufhaus, Werkstatt, Saal und Bahnhofshalle
+In Schule, Park, am Promenadenwalle
+Im Fahrstuhlschacht, im Bau am Krahn
+Treppauf und ab, durch Straßen über Plätze
+Auf Wagen, Rad und Straßenbahn
+Da schäumt des Menschenstrudels wirre Hetze
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Fünfhunderttausend Menschen rollt das große Leben
+Durch alle Rinnen fort und fort in ungeheurem Streben
+Und karrt der Tod auch Hundert täglich fort
+Es braust der Lärm wie sonst an jedem Ort
+Schleppt er vom Hammer-Block den Schmied
+Schleppt er vom Kurven-Gleis den Wagenleiter
+Noch stärker brüllt das Straßenlied
+Der Wagen fährt- der Hammer dröhnt weiter
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Menschen stehen vorwärts in den Straßen
+Und sehen auf die großen Himmelszeichen
+Wo die Kometen mit den Feuernasen
+Um die gezackten Türme drohend schleichen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und alle Dächer sind voll Sternedeuter
+Die in den Himmel stecken große Röhren
+Und Zaubrer, wachsend aus den Bodenlöchern
+In Dunkel schräg, die einen Stern beschwören
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Krankheit und Mißwachs durch die Tore kriechen
+In schwarzen Tüchern. Und die Betten tragen
+Das Wälzen und das Jammern vieler Siechen
+Und welche rennen mit den Totenschragen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Selbstmörder gehen nachts in großen Horden
+Die suchen vor sich ihr verlornes Wesen
+Gebückt in Süd und West, und Ost und Norden
+Den Staub zerfegend mit den Armen-Besen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sie sind wie Staub, der hält noch eine Weile
+Die Haare fallen schon auf ihren Wegen
+Sie springen, daß sie sterben,'nun'in Eile
+Und sind mit totem Haupt im Feld gelegen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Noch manchmal zappelnd. Und der Felder Tiere
+Stehn um sie blind, und stoßen mit dem Horne
+In ihren Bauch. Sie strecken alle viere
+Begraben unter Salbei und dem Dorne
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Das Jahr ist tot und leer von seinen Winden
+Das wie ein Mantel hängt voll Wassertriefen
+Und ewig Wetter, die sich klagend winden
+Aus Tiefen wolkig wieder zu den Tiefen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Meere aber stocken. In den Wogen
+Die Schiffe hängen modernd und verdrossen
+Zerstreut, und keine Strömung wird gezogen
+Und aller Himmel Höfe sind verschlossen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Bäume wechseln nicht die Zeiten
+Und bleiben ewig tot in ihrem Ende
+Und über die verfallnen Wege spreiten
+Sie hölzern ihre langen Finger-Hände
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Wer stirbt, der setzt sich auf, sich zu erheben
+Und eben hat er noch ein Wort gesprochen
+Auf einmal ist er fort. Wo ist sein Leben?
+Und seine Augen sind wie Glas zerbrochen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Schatten sind viele. Trübe und verborgen
+Und Träume, die an stummen Türen schleifen
+Und der erwacht, bedrückt von andern Morgen
+Muß schweren Schlaf von grauen Lidern streifen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die wüsten Straßen fließen lichterloh
+durch den erloschnen Kopf. Und tun mir weh
+Ich fühle deutlich, daß ich bald vergeh
+Dornrosen meines Fleisches, stecht nicht so
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Die Nacht verschimmelt. Giftlaternenschein
+Hat, kriechend, sie mit grünem Dreck beschmiert
+Das Herz ist wie ein Sack. Das Blut erfriert
+Die Welt fällt um. Die Augen stürzen ein
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Am Abend liegt die Stätte öd und braun
+Die Luft von gräulichem Gestank durchzogen
+Das Donnern eines Zugs vom Brückenbogen
+Und Spatzen flattern über Busch und Zaun
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Geduckte Hütten, Pfade wirr verstreut
+In Gärten Durcheinander und Bewegung
+Bisweilen schwillt Geheul aus dumpfer Regung
+In einer Kinderschar fliegt rot ein Kleid
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Am Kehricht pfeift verliebt ein Rattenchor
+In Körben tragen Frauen Eingeweide
+Ein ekelhafter Zug voll Schmutz und Räude
+Kommen sie aus der Dämmerung hervor
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Und ein Kanal speit plötzlich feistes Blut
+Vom Schlachthaus in den stillen Fluß hinunter
+Die Föhne färben karge Stauden bunter
+Und langsam kriecht die Röte durch die Flut
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Ein Flüstern, das in trübem Schlaf ertrinkt
+Gebilde gaukeln auf aus Wassergräben
+Vielleicht Erinnerung an ein früheres Leben
+Die mit den warmen Winden steigt und sinkt
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus Wolken tauchen schimmernde Alleen
+Erfüllt von schönen Wägen, kühnen Reitern
+Dann sieht man auch ein Schiff auf Klippen scheitern
+Und manchmal rosenfarbene Moscheen
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Sengen, brennen, schießen, stechen
+Schädel spalten, Rippen brechen
+spionieren, requirieren
+patrouillieren, exerzieren
+fluchen, bluten, hungern, frieren
+So lebt der edle Kriegerstand
+die Flinte in der linken Hand
+das Messer in der rechten Hand
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Aus dem Bett von Lehm und Jauche
+zur Attacke auf dem Bauche!
+Trommelfeuer – Handgranaten
+Wunden – Leichen – Heldentaten
+bravo, tapfere Soldaten!
+So lebt der edle Kriegerstand
+das Eisenkreuz am Preußenband
+die Tapferkeit am Bayernband
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Stillgestanden! Hoch die Beine!
+Augen gradeaus, ihr Schweine!
+Visitiert und schlecht befunden
+Keinen Urlaub. Angebunden
+Strafdienst extra sieben Stunden
+So lebt der edle Kriegerstand
+Jawohl, Herr Oberleutenant!
+Und zu Befehl, Herr Leutenant!
+Mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Vorwärts mit Tabak und Kümmel!
+Bajonette. Schlachtgetümmel
+Vorwärts! Sterben oder Siegen!
+Deutscher kennt kein Unterliegen
+Knochen splittern, Fetzen fliegen
+So lebt der edle Kriegerstand
+Der Schweiß tropft in den Grabenrand
+das Blut tropft in den Straßenrand
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>
+<|startoftext|> [RHYME_SCHEME, SENTIMENT_LABEL, TIME_EPOCH]
+Angeschossen – hochgeschmissen
+Bauch und Därme aufgerissen
+Rote Häuser – blauer Äther
+Teufel! Alle heiligen Väter!
+Mutter! Mutter!! Sanitäter!!!
+So stirbt der edle Kriegerstand
+in Stiefel, Maul und Ohren Sand
+und auf das Grab drei Schippen Sand
+mit Gott, mit Gott, mit Gott
+mit Gott für König und Vaterland
+<|endoftext|>

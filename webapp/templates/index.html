@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="../static/style.css" />
+  </head>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-2 bg-img"></div>
+      <div class="col-md-8">
+        <header align="center">
+          <h1>Poetry Generator</h1>
+        </header>
+        <br />
+        <body>
+          <form action="/" method="POST">
+            <div class="form-group">
+              <label for="rhyme">Rhyme scheme </label>
+              <select name="rhyme" class="form-control">
+                <option value="aabb">aabb</option>
+                <option value="abab">abab</option>
+                <option value="abba">abba</option>
+                <option value="aaaa">aaaa</option>
+                <option value="abcd">abcd</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="sentiment">Sentiment</label>
+              <select name="sentiment" class="form-control">
+                <option value="positive">Positive</option>
+                <option value="negative">Negative</option>
+                <option value="neutral">Neutral</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="time-epoch">Time epoch</label>
+              <select name="time-epoch" class="form-control">
+                <option value="16th">16th century</option>
+                <option value="17th">17th century</option>
+                <option value="18th">18th century</option>
+                <option selected="selected" value="19th">19th century</option>
+                <option value="20th">20th century</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-default" id="submit-button">
+              Generate poetry
+            </button>
+          </form>
+          <br />
+          <br />
+          {% if display %}
+          <div class="row">
+            <div class="col-md-6">
+              <p align="center">
+                <img
+                  src="../static/images/ai3.png"
+                  width="100%"
+                  height="100%"
+                />
+              </p>
+            </div>
+            <div class="col-md-6">
+              <div id="output-text">
+                <b>Rhyme: </b> {{rhyme}} <br />
+                <b>Sentiment: </b> {{sent}} <br />
+                <b>Time: </b> {{time}} <br />
+                <p
+                  class="border border-primary shadow p-2 mb-3 bg-white rounded"
+                >
+                  {{output|safe}}
+                  <br />
+                  <br />
+                </p>
+              </div>
+            </div>
+          </div>
+          {% else %}
+          <div class="space"></div>
+          {% endif %}
+          <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+          <!-- Include all compiled plugins (below), or include individual files as needed -->
+          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        </body>
+        <footer class="page-footer font-small teal pt-4 bottom">
+          <div class="footer-copyright text-center py-3">
+            Bachelor-Praktikum (Gruppe 43) - Wintersemester 19/20 - TU Darmstadt
+          </div>
+        </footer>
+      </div>
+      <div class="col-md-2 bg-img"></div>
+    </div>
+  </div>
+</html>
