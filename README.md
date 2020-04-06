@@ -116,7 +116,7 @@ pip install simpletransformers
 Training with roberta-base, 5 epochs on english poems only
 
 ```
-cd training/sent/stanza_level
+cd training/epoch
 python train_epoch.py
 ```
 
@@ -127,10 +127,10 @@ Make sure simpletransformers is installed (if requirements.txt is executed befor
 pip install simpletransformers
 ```
 
-Training with bert-multillingual, 15 epochs on both english and german poems
+Training with bert-base-multilingual-cased, 15 epochs on both english and german poems
 
 ```
-cd training/epoch
+cd training/sent/stanza_level
 python train_sent.py
 ```
 
