@@ -12,6 +12,7 @@ Run the web application:
 ```
 python webapp/app.py
 ```
+# [Data used to fine-tune GPT-2 model](https://drive.google.com/open?id=1DiLK0OjE0OwgCgt_bhlChy8DeiZk60JF)
 
 # UKP model
 Slight modification:
