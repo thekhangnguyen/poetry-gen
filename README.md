@@ -6,13 +6,12 @@ source env/bin/activate
 venv/bin/pip3 install -r requirements.txt
 ```
 
-Download [this folder](https://drive.google.com/open?id=12SJMB-dT5Cp-psRH2n9CsbzDS85L1GzD) and copy to `webapp/gpt2/models/355M`:
+Download [this folder](https://drive.google.com/open?id=1dZs3USYTJ7NvEA2rVVfKIG-O23zrPBsg) and copy to `webapp/gpt2/models/355M`:
 
 Run the web application: 
 ```
 python webapp/app.py
 ```
-# Fine-tune GPT-2 from the beginning
 
 # UKP model
 Slight modification:
