@@ -16,7 +16,7 @@ meta_filepath = "model/rhyme/model-11000.meta"
 ckpt_filepath = "model/rhyme/model-11000"
 
 
-class RhymeExtractor:
+class Rhyme:
     def __init__(self):
         self.session = tf.Session()
 

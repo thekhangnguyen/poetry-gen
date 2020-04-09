@@ -5,7 +5,7 @@ import sys
 path = os.path.abspath(os.path.join(__file__, "../../.."))
 sys.path.insert(1, path)
 
-from rhyme.rhyme import RhymeExtractor
+from rhyme.rhyme import Rhyme
 from sentiment.sentiment import SentimentExtractor
 from utils.reader import Reader
 
@@ -18,7 +18,7 @@ parser.add_argument('input',
 
 args = parser.parse_args()
 
-model_rhyme = RhymeExtractor()
+model_rhyme = Rhyme()
 sent = SentimentExtractor()
 model_rhyme.load_model()
 counter = 1

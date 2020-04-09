@@ -1,10 +1,12 @@
-# Run web app with fine-tuned GPT-2 model
+# Setup virtual environment
 Setup virtual environment (optional) and install requirements:
 ``` 
 virtualenv --system-site-packages -p python3 venv
 source env/bin/activate
 venv/bin/pip3 install -r requirements.txt
 ```
+
+# Run web app with fine-tuned GPT-2 model
 
 Download [this folder](https://drive.google.com/open?id=1dZs3USYTJ7NvEA2rVVfKIG-O23zrPBsg) and copy to `webapp/gpt2/models/355M`:
 
