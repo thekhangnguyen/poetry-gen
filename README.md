@@ -13,8 +13,14 @@ Run the web application:
 python webapp/app.py
 ```
 
-# UKP model
-Slight modification:
+# UKP
+This is the training code taken from the [ukp group](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf) in oder to test if this is a sufficient training method for predicting sentiments in poetries.
+
+The codes are all placed inside the ukp folder. In oder to run any code from ukp, you need to have ukp as your current working directory.
+
+For further instructions of how to run the ukp codes, you can check the readme file located in the ukp folder.
+
+Slight modification from the original codes:
 - Save_and_load.py: only for loading trained model (for further training)
 
     command: `python3 Save_and_Load.py [model_name]`
