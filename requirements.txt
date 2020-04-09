@@ -8,3 +8,4 @@ tensorflow==1.14
 gensim
 spacy
 simpletransformers
+torchvision
