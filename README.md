@@ -30,7 +30,7 @@ This is the training code taken from the [ukp group](https://github.com/UKPLab/e
 
 The codes are all placed inside the ukp folder. In oder to run any code from ukp, you need to have ukp as your current working directory.
 
-For further instructions of how to run the ukp codes, you can check the readme file located in the ukp folder.
+For further instructions of how to run the ukp codes, you can check the readme file located in the ukp folder [here](https://github.com/thekhangnguyen/poetry-gen/blob/master/ukp/README.md).
 
 Slight modification from the original codes:
 
