@@ -1,4 +1,4 @@
-# Setup virtual environment
+# Run web app with fine-tuned GPT-2 model
 Setup virtual environment (optional) and install requirements:
 ``` 
 virtualenv --system-site-packages -p python3 venv
@@ -6,15 +6,12 @@ source env/bin/activate
 venv/bin/pip3 install -r requirements.txt
 ```
 
-# Run web app with fine-tuned GPT-2 model
-
 Download [this folder](https://drive.google.com/open?id=1dZs3USYTJ7NvEA2rVVfKIG-O23zrPBsg) and copy to `webapp/gpt2/models/355M`:
 
 Run the web application: 
 ```
 python webapp/app.py
 ```
-# [Data used to fine-tune GPT-2 model](https://drive.google.com/open?id=1DiLK0OjE0OwgCgt_bhlChy8DeiZk60JF)
 
 # UKP model
 Slight modification:
@@ -70,7 +67,7 @@ should fix it
 
 # Time epoch extractor
 
-Download the trained model from [here](https://drive.google.com/file/d/1qavgcVHfoJ0f3hHUn8Q5nPMDs2J5AfoF/view?usp=sharing) and unzip it in model/
+Download the trained model from [here](https://drive.google.com/file/d/1qavgcVHfoJ0f3hHUn8Q5nPMDs2J5AfoF/view?usp=sharing) and extract its contents into model/epoch
 
 Import the epoch class:
 ```
@@ -92,7 +89,10 @@ text = ["From the day that I first knew you,",
         "Your smile was sweet and innocent,",
         "Your wit was well refined."]
 
-e = Epoch()
+# enable_cuda = True if GPU is available, False otherwise
+
+e = Epoch(enable_cuda = <bool>)
+
 e.predict(text)
 >>> [0,0,0,1]
 ```
@@ -102,7 +102,7 @@ Training codes for the respective models are also provided:
 
 - Rhyme:
 
-The model is trained entirely using the code [here](https://github.com/dhwajraj/deep-siamese-text-similarity) with the data extracted from given datasets
+The model is trained entirely using the code [here](https://github.com/dhwajraj/deep-siamese-text-similarity) with the data extracted from given datasets.
 The code to extract the data can be found:
 ```
 cd training/rhyme
