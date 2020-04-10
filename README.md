@@ -64,6 +64,7 @@ Slight modification from the original codes:
     command: `python3 RunModel_CoNLL_Format.py [model_name] [conll_file] [stored_location]`
 
 # Rhyme extractor
+Data used for training the rhyme extractor could be found in the folder `dataset` of this git repository
 
 Import the rhyme class:
 ```
@@ -106,6 +107,8 @@ r.fix_vocab()
 should fix it
 
 # Time epoch extractor
+
+Data used for training the time epoch extractor could be found at: https://github.com/tnhaider/english-gutenberg-poetry
 
 Download the trained model from [here](https://drive.google.com/file/d/1qavgcVHfoJ0f3hHUn8Q5nPMDs2J5AfoF/view?usp=sharing) and extract its contents into the folder epoch in `model/epoch`
 
