@@ -25,7 +25,7 @@ class Epoch:
         self.num_labels = 4
         self.args = {"reprocess_input_data": True, "overwrite_output_dir": True, "num_train_epochs": 1, 'fp16': False}
         self.model = MultiLabelClassificationModel(model_type=self.model_type, model_name=self.path,
-                                                   num_labels=self.num_labels, args=self.args
+                                                   num_labels=self.num_labels, args=self.args,
                                                    use_cuda = enable_cuda)
 
     def preprocess(self, text):
