@@ -1,8 +1,7 @@
 # Introduction
 The goal of this project is to create a style-conditioned poetry generator: the user can select desired criteria for the poems (rhyming pattern, sentiment and time epoch). The poetry generator is a GPT-2 model fine-tuned on our labeled dataset (link below) and it can be used by running a web application. 
 
-This project is a students' Bachelor Project (Winter semester 19/20) implemented under the supervision of [Dr. rer. pol. Steffen Eger](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/people_7/mitarbeiter_4_detailseite_72000.en.jsp) from the independent research group [AIPHES](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp) (Adaptive Preparation of Information from Heterogeneous Sources)
-at the [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) (Germany).
+This project is a students' Bachelor Project (Winter semester 19/20) implemented under the supervision of [Dr. rer. pol. Steffen Eger](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/people_7/mitarbeiter_4_detailseite_72000.en.jsp) at the [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) (Germany).
 
 ## Authors of the project
 The authors are: The-Khang Nguyen, Thanh Tung Linh Nguyen, Minh Vu Pham and Minh Tung Tran (all are students at the Technische Universität Darmstadt) and the original git repository is  at: https://github.com/thekhangnguyen/poetry-gen
